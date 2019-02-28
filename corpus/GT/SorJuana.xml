@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://www.digitisation.eu/tools/language-resources/impact-es/impact-es-corpus.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es" xml:id="SorJuana">
+  <teiHeader>
+    <fileDesc>
+      <sourceDesc>
+        <bibl>
+          <title>Carta athenagorica</title>
+          <author>Sor Juana Inés de la Cruz</author>
+          <date type="first-edition">1690</date>
+          <date type="source-edition">1690</date>
+        </bibl>
+      </sourceDesc>
+      <editionStmt>
+        <respStmt>
+          <resp>Created by IMPACT project and</resp>
+          <name>Universidad de Alicante</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="page">
+        <head>CARTA
+ATHENAGORICA
+DE LA MADRE
+JV ANA Y NES
+DE LA CRVZ</head>
+        <p>RELIGIOSA PROFESA DE VELO,
+y Choro en el muy Religioſo Convento de San Gero-
+nimo de la Ciudad de Mexico cabeça de la
+Nueba Eſpaña.</p>
+        <head>QVE IMPRI ME, YDEDICA A LA MISMA</head>
+        <p>SOR, PHYLOTE A DE LA CRVZ
+Su eudioſa aﬁcionada en el Convento de la San-
+tiſma Trinidad de la Puebla
+de los Angeles.</p>
+        <p>Conlicencia en la Puebla de los Angeles en la Imprenta
+de Diego Fernandez de Leon. Año de 1690.</p>
+      </div>
+      <div type="page">
+        <head>LICENCIA</head>
+        <head>DE SV ILL VS TRISSIMA.</head>
+        <head>ANGELES 25. DE NOVIEMBRE DE 1690. AñOS.</head>
+        <ab type="drop-capital">P</ab>
+        <p>O R el preſente damos licencia â Diego Fernandez de
+Leon Impreſor de Libros en ea Ciudad, para que pueda
+imprimir vna Carta eſcrita por la Madre Joanna Ines de la
+Cruz Religioſa del Convento de San Geronimo de Mexico,
+ſobre vn Sermon del Reverendiimo P. Antonio de Vieira de la
+Sagrada Compañia de Jesvs: En atencion aque de pedimento
+de la parte que nos á ſuplicado dicha licencia ſe á reconocido,
+y examinado dicha Carta, y no ſe â haado inconveniente para
+dicha impreon. Ai lo proveyô, y ﬁrmò el Iuriimo Señor
+Obiſpo de la Puebla mi Señor.</p>
+        <p>Manuel Obiſpo de la Puebla.</p>
+        <p>Ante mi</p>
+        <p>Br. Geronimo Lazeano
+Notario.</p>
+      </div>
+      <div type="page">
+        <head>SEÑORA MIA.</head>
+        <ab type="drop-capital">H</ab>
+        <p>E VISTO LA
+Carta de V md. en
+que impugna las ﬁ
+neças de Chrio,
+que diſcurriôel Re
+verendo Padre An-
+tonio de Vieira en
+el Sermon de el
+mandato, con tal
+ſubtileza, que à los
+mas eruditos, á pa-
+recido, que como otra aguila del Apocalyps
+ſe auia remontado ee ngular talento ſobre 
+miſmo, guiendo la planta, que formô antes
+el Iuriimo Ceſar Meneſes ingenio de los
+primeros de Portugal; pero à mi juicio, quien
+leyere ſu apologia de V md. no podrá negar cor-
+tô la pluma mas delgada, que ambos, y que pu-
+dieran gloriarſe de veerſe impugnados de vna
+muger, que es honrra de ſu ſexo. Yo à lo menos
+ê admirado la viveza de los conceptos, la diſ-
+crecion de ſus pruebas, y la energica claridad,
+conque convence el aſunto, compañera inſepa-</p>
+      </div>
+      <div type="page">
+        <p>rable de la ſabiduria; que por eo la primera voz
+que pronuncio la divina, fue luz; porque n cla-
+ridad no ay voz de ſabiduria; aun la de Chrio,
+quando hablava altiſmos myerios entre los
+velos de las Parabolas, no ſe tuvo por admira-
+ble en el mundo, y ſolo quando habló claro, me-
+reciò la aclamacion de ſaberlo todo. Ee es vno
+de los muchos bencﬁcios, que debe V md. á Dios;
+porque la claridad no ſe adquiere con el trabajo,
+y induria, es don, que ſe infun de con el alma.</p>
+        <p>Para que V md. ſe vea en ee papel de me-
+xor letra, le è impreo, y para que reconozca los
+theſoros, que Dios depotô en ſu alma, y le ſea
+como mas entendida, mas agradecida ( que la
+gratitud, y el entendimiento nacieron empre
+de vn miſmo parto ] y  como V md. dice en ſu
+Carta, quien mas á recevido de Dios, eâ mas
+obligado à la correſpondencia, temo ſe hae
+V md. alcançada en la quenta; pues pocas cria-
+turas deben a ſu Magead mayores talentos en
+lo natural, conque executa al agradecimiento,
+para que  haa a qui les â empleado bien [ que
+ai lo debo creer de quien profea tal Religiö ]
+en adelante ſea mejor.</p>
+        <p>No es mi juicio tan auero cenſor, que ee
+mal con los verſos, en que V md. ſe á vio tã ce-
+lebrada, deſpues que Santa Thereſa, el Nacian-
+ceno, y otros Santos canonizaron con los ſu yos
+ea hauilidad; pero deſeara  les imitara aſsi
+como en el metro, tambien en la eleccion de los
+aſuntos. No apruebo la vulgaridad de losque re-
+prueban en las mugeres el vſo de las letras, pues
+tantas ſe aplicaron à ee eudio, no n alabãza
+de San Geronimo. Es verdad que dice S. Pablo,
+que las mugeres no enſeñen: pero no manda que</p>
+      </div>
+      <div type="page">
+        <p>las mugeres no eudien para ſaber; porque ſolo
+quiſo prevenir el rieſgo de elaçion en nuero ſe-
+xo propenſô ẽpre â la vanidad. A Sarai la qui-
+tò vna letra la ſabiduria divina, y puſo vna mas
+al nombre de Abram, no porque el Varon â de
+tener mas letras, que la muger, como entẽ mu-
+chos, no porque la I, añadida al nombre de Sa-
+ra explicava tumor, y dominacion. Señor a mia,
+ſe interpreta Sarai, y no convenia que fueſe en
+la caſa de Abrahan, Señora, la que tenia empleo
+de Subdita. Letras ue engendran el açion no
+las quiere Dios en la muger; pero no las reprue-
+ba el Apool, quando no ſacan á la muger de el
+eado de obediente: Notorio es à todos, que el
+eudio, y ſaber han contenido á V md. en el eſ-
+tado de Subdita, y que la han ſervido de perfec-
+cionar primores de obediente pues  las demas
+Religioſas por la obediencia ſacriﬁcan la volũ-
+tad, V md. captiva el entendimiento, que es el
+mas arduo, y agradable holocauo, que puede
+ofrecerſe en las Aras de la Religion.</p>
+        <p>No pretendo, ſegun ee diamen,  V md.
+mude el genio renunciando los libros, no que
+le mexore leyendo alguna vez el de Jeſu Chriſ-
+to. Ninguno de los Evangelias amô libro á
+la Genealogia de Chrio  no es S. Matheo, por
+que en ſu cöveron no quiſo ee Señor mudarle
+la inclinacion, no mexorarla, para   antes quā
+do Publicano ſe ocupava en libros de ſus tratos,
+y intereſes, quando Apool mejoraſe el genio
+mudando los libros de ſu ruina, en el libro de Je-
+ſu Chrio. Mucho tiempo á gaado V md. en el
+eudio de Phyloſophos, y Poetas, ya ſerá razö,
+que ſe perfeccionen los empleos, y que ſe mejo-
+ren los libros. Que Pueblo huvo mas erudito </p>
+      </div>
+      <div type="page">
+        <p>Egypto? en el empezaron las primeras letras de
+el mundo, y ſe admiraron los Hieroglicos. Por
+grande ponderacion de la ſabiduria de Joſeph
+le ama la S. eſcriptura conſumado en la erudi-
+cion de los Ægypcios, y con todo eſo el Eſpiri-
+tu Santo, dice abiertamente que el Pueblo de los
+Ægypcios es barbaro: porque toda ſu ſabiduria,
+quando mas penetraua los mouimientos de las
+ereas, y cielos; pero no ſervia para enfrenar
+los deſordenes de las paones, toda ſu ciencia
+tenia por empleo perfeccionar al hombre en la
+vida politica: pero no iurava para conſeguir
+la eterna: y ciencia que no alumbra para ſalvarſe,
+Dios  todo lo ſabe la caliﬁca por necedad. Ai
+lo ntió Juo Lypo [paſmo de la erudicion] eſ-
+tando vecino â la muerte, y á la quenta, quando
+el entendimiento eâ mas iurado,  conſolã-
+dole ſus amigos, con los muchos libros  auia eſ
+crito, de erudicion, dixo, ſeñalando à vn Santo
+Chrio: Ciencia que no es del Cruciﬁcado, es ne-
+cedad, y ſolo vanidad.</p>
+        <p>No repruebo por eo la leccion de eos Au-
+thores: pero digo â V md. lo  aconſejava Gerſon,
+preeſe V md. no ſe venda, ni ſe dexe robar
+de eos eudios, eſclavas ſon las letras humanas
+y ſuelen aprobechar á las divinas: pero debē re-
+probarſe quando roban la poſeon del entendi-
+miento humano á la ſabiduria divina, haciẽdoſe
+ſeñoras las  ſe deinaron á la ſervidumbre, co-
+mendables ſon, quando el motivo de la curio-
+dad  es vicio, ſe paſa á la eudiodad,  es vir-
+tud. A S. Geronimo le azotaron los Angeles, por
+que leía en Ciceron, arrarado, y no libre, preﬁ-
+riendo el deleite de ſu eloquẽcia, à la ſolídez de
+la Sagrada Eſcriptura: pero loablemente ſe apro-</p>
+      </div>
+      <div type="page">
+        <p>bechò ee S. Door de ſus noticias, y de la erudi
+cion profana,  adquiriò en ſemejãtes Authores.</p>
+        <p>No es poco el tiẽpo,  á empleado V md en eſ
+tas ciencias curioſas, paſe ya como el grã Boecio
+à las probechoſas jũtando à las ſubtilezas de la
+natural, la vtilidad de vna Phyloſophia moral.
+Laima es  vn tan gran entendimiento de tal
+manera ſe abata à las rat eras noticias de la tierra,
+ no deſee penetrar lo  paſa en el Cielo, y ya 
+ſe humie al ſuelo,  no baje mas abajo conde-
+rando lo  paſa en el inﬁerno: y  guarê algu-
+nas veces de inteligẽcias dulces, y tiernas apli
+ſu entendimiento al Monte Calvario donde viẽ-
+do ﬁneças del Redẽptor, y ingratitudes del re-
+dimido, haara gran cãpo para ponderar exce-
+ſos de vn amor inﬁnito, y para formar apologias
+no n lagrimas contra vna ingratitud,  ega â
+lo ſumo, O  vtilmente otras vezes ſe engolfarâ
+eſe rico Galeon de ſu ingenio de V md. en la alta
+mar de las perfeciones divinas. No dudo  ſuce-
+deria à V md. lo  à Apeles,  copiando el retrato
+de cãpaſpe, quãtas lineas corria con el pincel por
+el lienzo, tãtas heridas hacia en ſu coraçon la ſae
+ta del amor quedando al miſmo tiempo perfec-
+cionado el retrato, y herido mortalmente de a-
+mor del original el coraçon del pintor.</p>
+        <p>Eoy muy cierta, y ſegura que  V md. con
+los diſcurſos vivos de ſu entendimiento, forma-
+ſe, y pintaſe vna idea de las perfecciones dìvinas
+[qual ſe permite entre làs tinieblas de la fee] al
+miſmo tiempo ſe veeria ilurada de luces ſu al-
+ma, y abraſada ſu voluntad, y dulçemẽte herida
+de amor de ſu Dios, para que ee Señor, que á
+ovido tan abundãtemente beneﬁcios potivos
+en lo natural ſobre V md. no ſe vea obligado á</p>
+      </div>
+      <div type="page">
+        <p>concederla beneﬁcios ſolamente negativos en lo
+ſobrenatural,  por mas  la diſcrecion de V md.
+les ame ﬁneças; yo les tengo por caigos; por-
+que ſolo es beneﬁcio el que Dios hace al coraçon
+humano previniendole con ſu gracia, para que
+le correſponda agradecido diſponiẽdoſe con vn
+beneﬁcio reconocido, para que no repreſada la
+liberalidad divina ſe los haga mayores. Eo de-
+ſea à V md. quien, deſde que la beſo, muchos a-
+ños á la mano, vive enamorada de ſu alma, n
+que ſe aya entibiado ee amor con la diancia,
+ni el tiempo, porque el amor eſpiritual no pade-
+ce achaques de mudança, ni le reconoçe el que
+es puro; no es hazia el crecimiento. Su Mageſ-
+tad oiga mis ſuplicas, y haga á V md. muy ſanta, y
+me la guarde en toda proſperidad. De ee Con-
+vento de la Santiima Trininad de la Puebla
+de los Angeles, y Nobiembre 25. de 1690.</p>
+        <p>B. L. M. de V md. ſu afea ſervidora.</p>
+        <p>Philotea de la Cruz.</p>
+      </div>
+      <div type="page">
+        <head>CARTA DE LA</head>
+        <p>MADRE IUANA INES DE</p>
+        <head>LA CRUZ RELIGIOSA DEL CONVENTO</head>
+        <p>de San Geronimo de la Ciudad de Mexico en que haze juiçio
+de vn Sermon del Mandato, que predicò el Reverendiimo P.
+Antonio de Vieyra de la Compaﬁia de JESUS, en el
+Colegio de Lisboa.</p>
+        <ab type="drop-capital">M</ab>
+        <p>UY SEÑOR MIO. DE LAS BA-
+chierias de vna converſacion, que en la
+merçed que V md. me haze paſaron plaça
+de viveças naçe en V md. el deſeo de ver
+por eſcrito algunos diſcurſos que ai hize
+de repente ſobre los Sermones de vn exçe-
+lente Orador, alabando algunas vezes ſus
+fundamentos, otros dintiendo, y empre
+admirandome de ſu n igual ingenio, que aun ſobre ſale mas en
+lo ſegundo, que en lo primero, por que ſobre ſolidas vaſas no
+es tanto de admirar la hermoſura de vna fabrica, como la de la
+que ſobre ﬂacos fundamentos ſe oenta luzida, quales ſon algu-
+nas de las propociones de ee ſubtiliimo talento, que es tal ſu
+ſuavidad, ſu viveça, y energia, que al miſmo que diiente, ena-
+mora con la beeza de la Oracion, ſuſpende con la dulçura, y he-
+chiza con la gracia, y eleva, admira, y encanta con el todo; de
+eo hablamos, y V md. guô (como ya dixe) ver eo eſcrito, y
+por que conozca que le obedezco en lo mas diﬁcil, no ſolo de
+parte de el entendimiento en aſumpto tan arduo como notar pro-
+pociones de tan gran ſujeto, no de parte de mi genio repug-
+nante à todo lo que pareçe impugnar á nadie, lo hago: aunque
+modiﬁcado ee inconveniente, en que ai de lo vno como de
+lo otro ſerâ V md. ſolo el teigo, en quien la propria authori-
+dad de ſu preçepto honeará los errores de mi obediencia, que
+á otros ojos pareciera deſproporcionada ſobervia, y mas cayendo</p>
+      </div>
+      <div type="page">
+        <p>en fexo tan deſacreditado en materia de letras con la comun ac-
+cepcion de todo el mundo, y para que V md. vea quan puriﬁca-
+do vâ de toda paion mi ſentir, propongo tres razones que en
+ee ingne Varon concurren de eſpecial amor, y reverencia mia.
+La primera, es el cordialiimo, y ﬁlial cariño â ſu Sagrada Reli-
+gion de quien en el afeo no ſoy menos hija que dicho ſujeto:
+La ſegunda, la grande aﬁcion, que ee admirable paſmo de los
+ingenios me ha empre debido en tanto grado que ſuelo dezir
+( y lo ento ai ) que  Dios me diera á eſcoger talentos no eli-
+giera otro que el ſuyo: La terçera, el que â ſu generoſa nacion
+tengo oculta mpatia, que juntas á la general de no tener eſpiri-
+tude contradicion ſobraban para caar, [como lo hiziera à no te-
+ner contraditorio precepto] pero no baaràn à que el entendi-
+miento humano potencia libre, y que aiente, ò diiente nece-
+ſario à lo que juzga ſer, ò no ſer verdad ſe rinda por liſongear el
+comedimiento de la voluntad. En cuya ſupocion digo: que
+eo no es replicar no referir mplemente mi ſentir, y ee tan
+ageno de creer de  lo que de el ſuyo penſò dicho Orador diziẽ-
+do: Que nadie le adelantaria [propocion en que hablô mas ſu
+nacion, que ſu profeon, y entendimiento] que deſde luego
+ebo penſado, y creydo que qualquiera adelantarâ mis diſcur-
+ſos con inﬁnitos grados, y no puedo dexar de dezir, que à ee
+que pareçe atrebimiento abriò el miſmo camino, y hoô el, pri-
+mero las intaas ſendas dexando no ſolo exempliﬁcadas, pero
+faciles las menores oſadias á via de ſu mayor arrojo, pues 
+ntiò vigor en ſu pluma para adelantar á en vno de ſus Sermones
+(que ſerà ſolo el aſumpto de ee papel) tres plumas ſobre doc-
+tas Canonizadas, que mucho, que aya quien intente adelantar la
+ſuya no ya Canonizada aunque tan doa;  ay vn Tulio Moder-
+no que ſe atreba à adelantar aun Auguino, aun Thomas, y aun
+Criſoomo,  mucho que aya quien oſe reſponder â ee Tulio?
+ ay quien oſe combatir en el ingenio con tres mas que hombres,
+que mucho es que aya quien haga cara â vno aunque tan gran
+hombre? y mas  ſe acompaña, y ampara de aqueos tres Gigan-
+tes; pues mi aſumpto es: defender las razones de los tres Santos
+Padres, mal dixe: mi aſumpto es defenderme con las razones
+de los tres Santos Padres: aora creo, que açerté, y entrando en</p>
+      </div>
+      <div type="page">
+        <p>el digo: que ſeguirê en la reſpuea el methodo miſmo que guió
+el Orador en el Sermom citado, que es del mandato; y es en ea
+forma:</p>
+        <p>Habla de ﬁnezas de Chrio en el ﬁn de ſu Vida Inﬁnem di-
+lexit, eos. Joan. 13. cap. Y propone el ſentir de tres Santos Pa-
+dres, que ſon Auguino, Thomas, y Criſoomo, con tan ge-
+neroſa oſadia, que dize: Eleﬆilo, que he de guardar en ee diſ-
+curſo ſerá eﬆe, referirè primero las opiniones de los Santos, y
+deſpues dirè tambien la mia, mas con ea diferencia, que nin-
+guna ﬁneza de amor de Chrio diràn los Santos, â que yo no dê
+otra mayor que ea: Y la ﬁneza de amor de Chrio, que yo dixe-
+re ninguno me ha de dar otra, que la iguale. Eas ſon ſus forma-
+les palabras ea ſu propoon, y ea la ue motiva la reſpuea.</p>
+        <p>La opinion primera es de Auguino, que ente que la mayor
+ﬁneza de Chrio fue morir provandolo con el texto; Maiorem
+hac dileione, nemo habet vt animam ſuam ponat quis pro ami-
+cis ſuis. Joan. 15. cap.</p>
+        <p>Dize ee Orador, que mayor ﬁneza fue en Chrio auſen-
+tarſe que morir, pruebalo por diſcurſo; por que Chrio amaba
+mas à los hombres que â ſu vida, pues dà la vida por eos, lue-
+go mas ﬁneza es auſentarſe que morir, pruebalo con el texto de
+la Magdalena, que ora en el Sepulcro, y no al pie de la Cruz:
+porque aqui vè à Chrio muerto, y ai auſente, y es mayor
+dolor la auſencia, que la muerte.</p>
+        <p>Pruebalo mas con que Chrio no haze demonraciones de
+ſentimiento en la Cruz quando muere: lnclinato Capite emit
+ſpiritum. Y las haze en el Huerto porque ſe aparta faus in
+agonia por que le es mas ſenble la auencia, que la muerte.</p>
+        <p>Pruebalo con que pudiendo Chrio Reſucitar al ſegundo
+inante que muriô, y Sacramentarſe deſpues de la Reſurrecion,
+que lo primero era el remedio de la muerte; y lo ſegundo de la
+auſencia, dilata el remedio de la muerte haa el terçero dia, y el
+de la auſencia no ſolo no le dilata no  le anticipa Sacramentã-
+doſe el dia antes de morir: luego ente mas Chrio la auſencia
+que la mu erte.</p>
+        <p>Pruebo mas: (dize) que Chrio muriò una vez, y ſe auſen-
+tò vna vez; pero que â la muerte no le dió mas que vn remedío</p>
+      </div>
+      <div type="page">
+        <p>reſucitando vna vez; mas que à la auſencia le buſcô inﬁnitos Sa-
+cramentandoſe. Y ai á la muerte diò vna Reſurrecion por re-
+medio: pero por vna auſencia multiplica inﬁnitas preſencias,
+luego ente mas la auſencia que la muerte.</p>
+        <p>Dize mas, que ente Chrio tanto mas la auſencia, que la
+muerte, que endo ai que el Sacramento de la Euchariia en
+quanto Sacramento, es preſencia, y en quanto ſacriﬁcio es muer-
+te, en que muere Chrio tantas vezes quantas ſe haze preſente,
+no repara en que cada preſencia le cuee vna muerte, demanera,
+que ente tanto mas Chrio el auſentarſe que el morir, que ſe
+ſujetó â vna perpetuidad de muerte por no ſufrir vn inante de
+auſencia; luego fue mayor ﬁneza auſentarſe que morir.</p>
+        <p>Eas ſon en ſubancia ſus razones, y pruebas; aunque por
+no dilatarme las erecho â la toſquedad de mi eilo en que no
+poco pierden de ſu energia, y viveza, y ſerâ preciſo hazerlo
+ai en todos los diſcurſos, pues V md. los podrâ leer de eſpacio
+en el miſmo Author â que me reﬁero, y eo no es mas que vnos
+apuntamientos, ô reclamos para dar claridad à la reſpuea
+que es ea:</p>
+        <p>Siento con San Auguin, que la mayor ﬁneza de Chrio
+fue morir. Pruebaſe por diſcurſo por que lo mas apreciable en el
+hombre es la vida, y la honrra, y ambas coſas dâ Chrio en ſu
+afrentoſa muerte: en quanto Dios ya habia hecho con el hom-
+bre ﬁnezas dignas de ſu Omnipotencia, como fue el criarle, con-
+ſervarle &amp;c. pero en quanto hombre no tiene mas que poder dar
+que la vida. Pruebaſe no ſolo con el texto Maiorem charitatem
+el qual ſe puede entender de otros amores no con otros inﬁni-
+tos, ſea vno el en que Chrio dize que es buen paor: Ego ſum
+paor bonus, bonus paor animam ſuam dat pro ovibus ſuis:
+Donde Chrio habla de  miſmo, y caliﬁca ſu ﬁneza con ſu
+muerte; y endo Chrio quien ſolo ſabe qual es la mayor de ſus
+ﬁnezas, claro es que quando ſe pone á executoriarlas el miſmo,
+à haber otra mayor, la dixera, y no oenta para prueba de ſu
+amor mas que la promptitud à la muerte, luego es la mayor de
+las ﬁnezas de Chrio.</p>
+        <p>Mas; dos terminos tiene vna neza que la pueden conituir
+en el ſer de grande, el termino aquo de quien la executa, y el ter.</p>
+      </div>
+      <div type="page">
+        <p>m¡no adquem de quien la logra. El primero hace grande vna ﬁ-
+neça por el mucho coo  tiene al amante, el ſegundo por la mu
+cha vtilidad  trae al amado; ay muchas ﬁneças  tienẽ el vn ter-
+mino, pero carecẽ del otro; ſea exẽplo de las primeras Iacob r-
+viendo catorce años! ó que trabajos! ó  yelos! ó que ſoles! gran
+ﬁneça de parte de Jacob; pero veamos que vtilidad trae eſo à
+Rachel [ que es el otro termino ] ninguna: pues el tener eſpoſo,
+n eſas diligẽcias lo lograria ſu beeza; ea ﬁneça tiene ſolo el
+termino aquo. Sea exemplo de las ſegundas Eher elevada al-
+trono real en lugar de la Reyna Vai, gran dicha! porcierto grã
+ventura! grande vtilidad para Eher! pero veamos el otro termi-
+no que coo le tiene à Aſuero eſa ﬁneça? ninguno, ſolo querer. Eſ-
+ta ﬁneça tiene el termino ſolo adquem; luego para ſer de el todo
+grande vna ﬁneça á de tener coos al amante, y vtilidades al a-
+mado: pues preguntó qual ﬁneça para Chrio mas cooſa que
+morir? qual mas vtil para el hombre  la Redẽpcion  reſultó de
+ſu muerte? luego es por ambos terminos la mayor ﬁneça morir.</p>
+        <p>Encarna el Verbo, y mide por nuero amor la immenſa diſ-
+tancia de Dios á hombre, muere, y mide la limitada que ay de
+hombre á muerte, y endo aſ que aquea es mayor diancia,
+quando nos repreſenta ſus ﬁneças, y nos recomienda ſu memo-
+ria no nos acuerda que en carnô, y nos repreſenta que murió:
+Hoc e Corpus meum, quod pro vobis tradetur, hoc facite in meã
+commemorationem. Pues no nos podia decir Chrio ee es mi
+cuerpo que por vuero amor le tomè, y me hice hombre, no que
+la Encarnacion, no le fue penoſa ni obra luego nuera redemp-
+cion, y quiere Chrio acordarnos ſu coo, y nuera vtilidad, 
+ſon los dos terminos que hacen perfea vna ﬁneça, y que ſolo
+comprehende ſu muerte, que es la mayor de ſus ﬁneças; porque
+la Encarnacion fue mayor maravia; pero no fue tan grande ﬁ-
+neça, porque en quanto â maravia, mayor maravia fue hacerſe
+Dios hombre, que morir endo hombre; pero en quanto à ﬁne-
+ça mayor, mayor coo le tuvo morir que encarnar, no perdió na-
+da de el ſer Dios quando ſe hizo Chrio, y en morir dexò de ſer
+Chrio deſuniendo el cuerpo de el alma de que ſe hacia Chrio,
+luego fue mayor ﬁneça el morir, y parece que el miſmo Señor lo
+regulô ai: pruebaſe por diſcurſo: todos aqueos que ſe eligen</p>
+      </div>
+      <div type="page">
+        <p>por medios para algun ﬁn, ſe tienen por de menor aprecio que el
+ﬁn aque ſe dirigẽ. La Encarnacion fue medio para la muerte: pues
+Chrio ſe hizo hombre, para morir por el hombre, con que fue
+mayor ﬁneça morir que Encarnar, aunque ſea mayor maravia
+Encarnar que morir; luego morir fue la mayor ﬁneça en la gra-
+duacion de el miſmo Chrio, endo ſu Magead quien vnica-
+mente las ſabe graduar, por eſo al eſpirar Chrio dice conſuma-
+tum e porque el eſpirar fue la conſumacion de ſus ﬁneças.</p>
+        <p>Compra Chrio [ dice el Autor ] cada preſencia con vna
+muerte en el Sacramento, yo entiendo que compra la muerte cö
+la preſencia pues tiene la preſencia por acordarnos ſu muerte:
+Quoties cunque feceritis in meam memoriam facietis. Aquea
+ﬁneça que el amante de ſea que ſe imprima en la memoria de el
+amado, es la que tiene por mayor: Chrio dice: acordaos de que
+mori; y no dice acordaos de que os criè, de que encarné, de que
+me Sacramentè &amp;c. Luego la mayor es morir: conﬁrmaſe ea
+verdad: aquea ﬁneça que el amante oenta mas, tiene por la
+mayor; Chrio reytera ſu muerte, y no otra, luego ea fue la
+mayor: Y teniendo inﬁnitos beneﬁcios que podernos acordar,
+ſolo nos acuerda, que muriô, luego ea es la mayor. Mas; las de-
+mas ﬁneças de Chrio ſe reﬁeren pero no ſe repreſentan, la mu-
+erte, ſe reﬁere, ſe recomienda, y ſe repreſenta; luego no ſolo es
+la mayor ﬁneça, pero es compendio de todas las ﬁneças, prue-
+bolo: Chrio en ſu muerte nos repite el beneﬁcio de la creacion,
+pues nos reituye con ea al primitivo ſer de la gracia, Xpto. cö
+ſu muerte nos reytera el de la conſervacion, pues no ſolo nos
+conſerva vida temporal muriendo porque viuamos, no  nos
+dà ſu carne, y ſangre por ſuento: Chrio en ſu muerte nos rey-
+tera el beneﬁcio de la Encarnacion, pues vniendoſe en la Encar-
+nacion à la carne puriima de ſu Madre, en la muerte ſe vne â
+todos derramando en todos ſu ſangre, ſolo el Sacramento pare-
+ce  no ſe repreſenta en la muerte, y es porque el Sacramento es
+la repreſentacion de ſu muerte, y eo miſmo prueba ſer la ma-
+yor ﬁneça la muerte, pues endo tan grande ﬁneça el Sacra-
+mento es ſolo repreſentacion de la muerte.</p>
+        <p>Pues en verdad que haa â ora no hemos reſpondido â el Au-
+tor; no ſolo defendido el ſentir de Auguino de que la mayor</p>
+      </div>
+      <div type="page">
+        <p>ﬁneça de Chrio, fue morir, vamos á las razones de el Autor
+pues ya dexamos dichos ſus fundamentos, aque deſde luego le
+concedemos. Que Chrio amò mas à los hombres que â ſu vida,
+pues la diò por eos: Pero le negamos el ſupueo de que Chriſ-
+to ſe auſentô, y dado que ſe auſentaſe, negamos tambien el que:
+La auſencia ſea mayor que la muerte. Vamos á lo primero que
+es probar que Chrio no ſe auſentô.</p>
+        <p>Sirva de prueba al mio ſu proprio argumento, dice que
+Chriﬆo ente tanto el auſentar ſe, y tan poco el morir, que dila-
+ta el remedio de la muerte en, la Reſureccion haa el tercero dia
+y anticipa el de la auencia en el Sacramento. Porque ſuda en
+el Huerto: Faus e ſudor eius. Porque agoniça de congoxas:
+Faus in agonia. Porque ſe auſenta  queda ya preſente Sa-
+cramentado en el Cenaculo? y  remedia la auencia antes que
+egue? qual auſencia es la que ente ya remediada? luego la ago
+nia no es de que ſe aparta quien dexa ya aſegurado el que ſe que-
+da, Iuego de todo eo ſe inﬁere que el auſentarſe no ſolo no ſe
+debe contar por la mayor ﬁneça de Chrio; pero ni por ﬁneça,
+pues nunca egô el caſo de executarla.</p>
+        <p>Dice el Autor, que Chrio ſe vâ porque nos importa: Ex-
+pedit vobis vt ego vadam. Es verdad que ſe và; pero es falſo que
+ſe auſenta no gaemos tiempo, ya ſabemos la inﬁnidad de ſus
+preſencias.</p>
+        <p>Probado el que Chrio no ſe auſentô, no rue la prueba de
+la Magdalena para ea concluon, pues ſolo rviera ſuponien-
+do el Autor la auſencia que yo niego, y mi argumento es que la
+muerte de Chrio fue la mayor ﬁneça de las ﬁneças que obrò;
+no de la ſupuea auſencia que en eſa niego todo el ſupueo, y
+no ay relativo de comparacion entre lo que tiene ſer, y lo que no
+le tiene: pero porque, propuſe probar que no es la auſencia ma-
+yor dolor, que la muerte, y por conguiente, ni mayor ﬁneça, -
+no al contrario, ſerá preciſo reſponder à la prueba de la Magda-
+lena, y ai digo: que de orar la Magdalena en el Sepulcro, y no
+orar al pie de la Cruz no ſe inﬁere que ſea mayor dolor el de la
+auſencia que el de la muerte, antes lo contrario.</p>
+        <p>Quando ſe recibe algun grande peſar acuden los eſpiri-
+tus vitales à ſocorrer la agonia del coraçon que desfaece, y ea</p>
+      </div>
+      <div type="page">
+        <p>retraccion de eſpiritus ocaona general embargo, y ſuſpenon
+de todas las acciones, y movimientos, haa que moderandoſe el
+dolor cobra el coraçon alientos para ſu deſahogo, y exala por el
+anto á queos miſmos eſpiritas que le congoxan por confor-
+tarle en ſeñal de que ya no neceta de tanto fomento, como al
+principio; de donde ſe prueba por razon natural, que es menor
+el dolor quando dâ lugar al anto, que quando no permite que
+ſe exalen los eſpiritus; porque los neceta para ſu aliento, y con-
+fortacion, pruebaſe con que ee miſmo eﬀeo ſuele ocaonar
+vn goço, luego no ſon indicio de muy graue dolor las lagrimas
+pues es vn gno tan comun, que indiferentemente rve al pe-
+ſar, y al guo.</p>
+        <p>A dos hombres gradua Chrio con el dulçe titulo de ami-
+gos, el vno es Laçaro: Laçarus amicus noer dor mit, el otro es
+Judas: Amiç ad quid venii, ſuceden à los dos, dos infortunios,
+muere Laçaro muerte temporal, muere Judas muerte temporal,
+y eterna, bien claro ſe vé, que ea ſeria mas ſenble para Chriſ-
+to, y veemos que ora por Laçaro: Lacrimatus e leſus, y no
+ora por Judas; porque aqui el mayor dolor embargò al anto,
+y ai el menor le permitia.</p>
+        <p>La Reyna de los Dolores para ſerlo tambien de los meritos
+ſe haa al doloroſo eſpeaculo de la muerte de ſu Vnigenito, y
+quando oran con tan diante conocimiento las hijas de Sion
+no ora la traſpaſada Madre: Stantem video, ﬂentem non video.
+Porque el inferior dolor ora, el ſupremo, ſuſpende, y no dexa
+orar.</p>
+        <p>Dentro de el meſmo caſo de la Magdalena haaremos otra
+prueba, no ay duda que la Magdalena amó mucho â Chrio, el
+miſmo Señor lo tetiﬁca: Remituntur ei pecata multa, quia di-
+lexit multum. Pues endo ee amor tan meritorio, claro eà
+que ſeria perfeo, y el perfeo claro eá que es: amar á Dios
+ſobre todas las coſas, luego amaba la Magdalena mas à Chrio,
+que à Laçaro ſu hermano, pues como ora en la muerte de
+ſu hermano: Vt vidit eam leſus ﬂentem &amp;c. Y no ora en la
+muerte de Chrio? Y es porque tuvo menor dolor en la muerte
+de Laçaro, que en la muerte de ſu Maero, luego ſe prueba ſer
+mayor dolor el que no dexa orar, que el que ora.</p>
+      </div>
+      <div type="page">
+        <p>Pruebolo mas: que dolor ay en la auencia; no vna caren-
+cia de la via de lo que ſe ama; pues ee claro eâ, que le tiene
+la muerte mas circunanciado; porque la auencia trae vna ca-
+rencia limitada, la muerte vna carencia perpetua; luego es ma-
+yor dolor el de la muerte, que el de la auencia; pues es vna ma-
+yor auencia: aprieto mas, el auſente, ente ſolo no veer lo que
+ama; pero ni ente otro daño en , ni en lo que ama: el  mue-
+re, ò vee morir, ente la carencia, y ente la muerte de ſu ama-
+do, ò ente la carencia de ſu amado, y la muerte propria; luego
+es mayor dolor la muerte, que la auſencia: porque la auſencia, es
+ſolo auſencia: La muerte, es muerte, y es auſencia; luego  la
+comprehende con aditamento, mayor dolor ſerà. Vamos al ſe-
+gundo ſentir, que es de Santo Thomas.</p>
+        <p>Dice ee Angelico Door, que la mayor ﬁneça de Chrio,
+fue el quedarſe con noſotros Sacramentado, quando ſe partia á
+ſu Padre Glorioſo [â juadme eo con aquea tan ponderada
+auencia de el diſcurſo paſado) vamos al caſo.</p>
+        <p>Dice ee ſubtiliimo ingenio, que no fue la mayor ﬁneça de
+Chriﬆo Sacramentar ſe, no quedar en el Sacrameuto n vſo de
+ſentidos. Pruebalo con el lugar de Abſalon, quando buelto de
+Geſur â la Corte, y no enteramente reducido â la gracia de Da-
+vid, queria mas la muerte, que tan penoſa auencia: aá verá
+V md. en el Sermon, lo elegante de ea prueba, que â mi me im-
+porta primero averiguar la forma de ee ſylogiſmo, y veer co-
+mo arguye el Santo, y como replica el Autor.</p>
+        <p>El Santo dice: Sacramentar ſe fue la mayor ﬁneça de Chriſ-
+to, replica el Autor, no fue no quedar n vſo de ſentidos en ee
+Sacremẽto. Que forma de arguir es ea? el Sãto propone en gene
+ro, el Autor reſponde en eſpecie; luego no vale el argumẽto,  el
+Sãto hablara de vna de las eſpecies inﬁnitas de ﬁneças,  ſe en-
+cierran en aquel Erario riquiimo del divino amor, debaxo de
+los accidentes de pan, fuera buena la opocion; pero  las com-
+prehende todas la palabra Sacramentar ſe, como le reſponde o-
+poniendole vna de tas miſmas ﬁneças, que el Santo comprehẽ-
+de?  vno dixeſe que: la mas noble cathegoria era la de ſuban-
+cia, y otro le replicaſe que no no el hombre, aunque para eo
+traxeſe muy elegantes pruebas, quales ſon las que trae el Autor,</p>
+      </div>
+      <div type="page">
+        <p>no diriamos que no ſeruiã; porque era ſoﬁico el argumento, y
+pecaba en la forma: porque el hombre es eſpecie del genero ſubſ-
+tancia, y eâ comprehendido de baxo de ea? claro eà: pues
+ai juzgo yo eo, no es que me engaño, que bien podrà ſer; pe
+ro lo que aſeguro es, que no ſerâ por paon, vealo V md. que
+yo me ſugeto en ee [como en todo] â ſu correccion. Pareceme
+que quitadas las primeras baſas ſobre que eribava la propo-
+cionda entierra el ediﬁcio de las pruebas,  quãto erã masfuer-
+tes tãto ſö maspröptas al precipicio ſaliẽdo ﬂaco el fundamẽto.</p>
+        <p>Ya piẽſo  è ſatisfecho en lo  toca á la defẽſa deS. Thomascu-
+ya propociö abraça, y cöprehẽde todaslas ﬁneças Sacramẽtales.</p>
+        <p>Pero  yo hubiera de arguir de eſpecie, á eſpecie con el Au-
+tor dixera:  de las eſpecies de ﬁneça que Chrio obrô en el Sa-
+cramento, no es la mayor el ear n vſo de ſentidos, no ear
+preſente al deſaire de las ofenſas; porque priuarſe de el vſo de
+los ſentidos, es ſolo abenerſe de las delicias del amor, que es
+tormento negatiuo; pero ponerſe preſente á las ofenſas, es no ſo-
+lo buſcar el potiuo de loszelos, pero (lo  mas es) ſufrir vltrajes
+en el reſpeo, y es ea tãto mayor ﬁneça,  aquea quãto va de
+vn amor agraviado, à vn amor reprimido, y lo que dia el dolor
+de vn deleite, que no ſe goça â vna ofenſa,  ſe tolera dia el
+de priuarſe de losſentidos, â el de hacer cara álos agravios, no vèr
+lo  dà guo, es dolor, pero mayor dolor es, vér lo dà diſguo.</p>
+        <p>Venden â Joſeph ſus hermanos, en Egipto, y priuan à Jacob
+del deleite de ſu via, atreveſe Ruben à violar el Lecho de ſu
+Padre Grandes delios ambos; pero veamos los caigos que
+Jacob les previene: á Ruben priva de la primogenitura, expre
+ſando por cauſal el agrauio maldice, y quiere que no crezca: Ef-
+fuſus eﬆ cut aqua non creſcas quia aſcendii cubile patris
+tui, &amp; maculaﬆi raum eius. Bien merecida pena á ſu culpa:
+pero veamos,  caigo agna á los de mas, por hauer vendido
+à Joſeph? ninguno, ni buelbe â hacer mencion de tal coſa, pues
+como? vn delito tan enorme ſe queda aſ? vender à ſu hermano?
+y aun hermano tal como Joſeph, delicias, y conſuelo de Jacob,
+y deſpues amparo de todos? y eo ſe olvida, y â Ruben caigã?
+,  en la venta de Joſeph, privaron a Jacob ſolo de el deleite de
+ſu amor; pero Ruben ofendió ſu amor, y ſu reſpeo, y es menos</p>
+      </div>
+      <div type="page">
+        <p>dolor priuarſe del logro del amor, que ſufrir agravios del amor,
+y del reſpeo; luego es en Chrio mayor ﬁneça ea, que aque-
+a, eo he dicho de paſo, que ya digo, que el argumento de eſ-
+pecie, à eſpecie puede hacerſe al Autor, no al Santo. Vamos
+á la tercera, que es de San Juan Criſoomo.</p>
+        <p>Dice el Santo que: La mayor ﬁneça de Chri, fue labar
+los pies à los Diſcipulos.</p>
+        <p>Dice el Autor: Que no fue la mayor ﬁneça labar los pies;
+no la cauſa que le mobiò á la barlos.</p>
+        <p>Otra tenemos, no muy diferente de la paſada aquea de eſ-
+pecie à genero, ea de efeo á cauſa, valgame Dios! pudo pa-
+ſarle por el penſamien to á el Divino Criſoomo, que Chrio
+obrò tal coſa; n cauſa, y muy grande? claro eâ, que no pudo
+penſar tal coſa; antes no ſolo vna cauſa, no las muchas cauſas
+maniﬁea con tan portentoſo efeo, como humiarſe aquea
+Immẽſa Magead, à los pies de los höbres, ee es el efeo, y cö
+ſu energia el Criſoomo, quiere  inﬁramos del, lo grãde de las
+cauſas, n expreſarlas; por no pudo haar mas viua expreon,
+que referir tan humilde minierio en tanta ſoberania, como di-
+ciendo: mirad como nos amô Chrio, pues ſe humiò â labar-
+nos los pies, mirad lo  deſeô enſeñarnos con ſu exemplo; pues
+ſe abatiò haa labarnos los pies, mirad quanto ſolicitô la con-
+veron de Judas, pues ego â labarle los pies, y otras muchas
+mas cauſas, que el Evangelio expreſa, y muchas mas que caa,
+y que el Criſoomo incluye en aquel; labò los pies á ſus Diſci-
+pulos, pues  el motivo de labar los pies, y la execucion de la-
+barlos, ſe an como cauſa, yefeo, yla cauſa, y efeo ſea relativos,
+ aqui no puedẽſepararſe. Döde ea eá mayoria  el Autor haa
+entre labar, y la cauſa de labar?  ſolo ſu diferẽcia es ſer generãte,
+la cauſa, y el efeo engẽdrado, ni qual es la mayor ﬁneça  dá â.
+lo  el Santo dice? pues al ﬁn ſe refunde, en  Chriﬆo ſe abatiò á
+los pies de Iudas, cuyo corazon era trono de Satanâs, y ee es el
+efeo que el Santo pondera, y expreſa, y que: la cauſa fue re-
+ducirle. Y ea es la cauſa, ô vna de las cauſas, que el Santo in-
+cluyô reﬁriendo el efeo con masmierioſa, ponderacion, que 
+las expreſara. Quiere el Evangelia San Juan, dar pruebas del a-
+mor del Eterno Padre, y lo prueba con el efeo: Sic Deus dile-</p>
+      </div>
+      <div type="page">
+        <p>xit mundum vt ﬁlium ſuum Vnigenitum daret. Amó Dios de
+manera al mundo, que le diò á ſu Hijo; luego el efeo es el que
+prueba à la cauſa; para encender nueros deſeos en los bienes e-
+ternos, ſe nos dice que ni ojos vieron, ni oydos, oyeron, ni cora-
+zon humano puede comprehender, como es aquea felicidad
+eterna; pues no fuera mejor para excitarnos el deſeo pintarnos la
+gloria? no; que lo que no cabe en las vozes queda mas decente en
+en el lencio, y ex preſa, y dâ, á entender mas vn: no ſe puede ex-
+plicar como es la gloria; que vn aſ es la gloria: aſ el Criſoſ-
+tomo, la obra que es exterior expreſa, la cauſa la ſupone, y como
+in explicable la dexa de decir.</p>
+        <p>Para dar mayor claridad â lo dicho, y apoyar mas la proprie
+dad con que habló el Santo, apuremos que coſa es ﬁneça? es ﬁ-
+neça à caſo tener amor? no por cierto: no las demoraciones
+de el amor, eſas ſe aman ﬁneças, aqueos gnos exteriores de
+morativos, y acciones que exercita el amante, endo ſu cauſa
+motiva el amor, eſo ſe ama ﬁneça; luego  el Santo eà hablã-
+do de ﬁneças, y aos externos con grandiſma propriedad trae
+el labatorio, y no la cauſa: pues la cauſa es el amor, y el Santo no
+eâ hablando del amor, no de la ﬁneça, que es el gno exte-
+rior; luego no ay que ni porque arguirle, pues eba el Santo ſu-
+pueo, lo que deſpues le ſacan como nuevo.</p>
+        <p>Ya hemos reſpondido por los tres Santos: haora vamos á lo
+mas arduo, que es à la opinion, que vltimamente forma el Autor,
+al Achiles de ſu Sermon, á la que en ſu ſentir tiene por la mayor
+ﬁneça de Chrio, y á la que dice: Que ninguno le dar â otra
+que le iguale, que es decir: Que Chriﬆo no quiſo la correſpondẽ-
+cia de ſu amor para ; no para los hombres, y que ea fue la
+mayor ﬁneça, amar n correſpondencia, pruebalo con aqueas
+palabras: Et vos debetis alter alterius la bare pedes, de donde
+inﬁere, que Chrio no quiere que le correſpondamos, ni que le
+amemos; no que nos amemos, vnos, â otros, y dice que es la
+mayor ﬁneça de Chrio ea: porque es ﬁneça n interes de cor-
+reſpondencia: para eo no trae pruebas de Sagrada Eſcriptura;
+porque dice: Que la mayor prueba de ea ﬁneça, es el carecer
+de pruebas; porque es ﬁneça n exemplar. Con que bien
+mirada la propocion, tiene dos mienbros aque reſponder, el</p>
+      </div>
+      <div type="page">
+        <p>vno es, que Chrio no quiſo nuera correſpondencia, el otro: que
+no tiene prueba ea ﬁneça de Chrio, con que ſeràn dos las reſ-
+pueas: vna probar que no ſolo no fue ﬁneça la que el Autor di-
+ce; pero que fue ﬁneça lo contrario que es: Que Chrio quiere
+nueﬆra correſpondencia; y  ea es la ﬁneza. La otra probar 
+quando ſupueramos, que era ﬁneza lã que dice el Autor, no le
+faltaran pruebas en la Sagrada Eſcriptura, ni exemplares dõ-
+de nada falta. Vamos á lo primero, que es probar, que no fue ﬁ-
+neça la que dice el Autor, ni Chrio la hiço.</p>
+        <p>El probar que Chrio, quiſo nuera correſpondencia, y no
+la renuncio; no que la ſolicito, es tan facil que no ſe haa otra
+coſa en todas las Sagradas letras, que inancias, y preceptos, 
+nos mandan amar à Dios, ya ſe vee que el primer precepto es:
+Diliges Dominum Deum tuum extoto corde tuo, &amp; extota ani-
+ma tua, &amp; extota mente tua. Pues como ſe puede entender, que
+Chrio, no quiere nuera correſpondencia, quando con tanto
+aprieto la encarga, y manda? claro eâ, que el Autor ſabia eo
+mejor, que yo; no que quiſo hacer oentacion de ſu ingenio,
+no porque ntieſe que lo podria probar, pues aunque en la clau-
+ſula: Et vos debetis alter alterius labare pedes. No ſe expreſa
+el amor que nos pide Chrio para , y ſe expreſa el que nos mã-
+da tener al proximo, ſe incluye, y en buelbe en ea miſma el a-
+mor de Dios, aunque no ſe expreſa con mayor eﬁcacia, que el de
+el proximo, que ſe manda.</p>
+        <p>Pruebolo por razon: Manda Dios amar al proximo, y quie-
+re que lo hagamos; porque el lo manda; luego dexa ſupueo 
+debemos amar mas á Dios, pues por ſu obediencia hemos de a-
+mar al proximo. Quando ſe hace por reſpeo de alguno, alguna
+accion â favor de otro: mas ſe aprecia aquel por cuy a atencion ſe
+hace, que á el con quien ſe hace.</p>
+        <p>Quiere Dios deruir á el pueblo, por el pecado de la idola-
+tria, interponeſe Moyſes diciendo: O perdonales, ò borrame de
+el libro de la vida. Perdona Dios, aquel pueblo ingrato, por ea
+interpocion, quien quedó aqui [pregũto] mas obligado â Dios
+Moyſes, ô el pueblo? claro eà que Moyſes: pues aunque el be-
+neﬁcio reſultô en bien de el pueblo, y quedò muy obligado à
+Dios, mas lo quedô Moyſes, pues lo hizo Dios por ſu reſpeo.</p>
+      </div>
+      <div type="page">
+        <p>Quiere Chrio, que nos amemos; pero que nos amemos en el,
+por el; luego ſu amor es primero: y no veamos como eba el
+nos amemos n ſu reſpeo. Manda Chrio amar á los Padres
+Honora Patrem tuum. Manda amar al proximo; Diliges proxi
+mum tuum cutte ipſum. Bien; pero como hade ſer ee amor
+anteponiendo empre el ſuyo, no ſolo à los amores prohibidos
+no ſolo á los vicioſos, no à los licitos, à los obligatorios, à los
+el miſmo nos mãda tener, como entre el Padre, y el hĳo, entre
+muger, y el marido, y todos los demas que ſu Magead quiere
+no los quiere en no endo por ſu reſpeo, antes los aborrece,
+los ſepara; y no veaſe el admirable orden con que en el Evan
+gelio nos vâ enſeñando el modo de cũplir, y de praicar aque
+primer precepto: Diliges Dominum Deum tuum &amp;c. A man
+dado ſu Magead, amar â los Padres: Honor a Patrem tuum,
+para que no penſemos, que los podemos amar mas que â Dio
+dice: Qui diligit Patrem ſuum pluſquam me non e me dignus
+Ya aqui parece,  ſe contenta Dios ſolo con  no amemos ma
+â los Padres, que á ſu Magead: pues no, mas adelante paſa la o
+bligacion, pues haa haora ſolo manda, no amarlos mas; per
+deſpues manda aborrecerlos,  ſon eoruo de ſu ſervicio: Siqui
+venit ad me, &amp; non odit Patrem ſuum, &amp; matrem, &amp; vxorem
+&amp; ﬁlios, &amp; fratres, &amp; ſorores &amp;c. E aqui  ya nos manda abor
+recer â todos los propinquos, pues todavia falta, que aun que
+damos enteros, y ni aun â nueros miembros hemos de perdo
+nar;  importa á ſu ſervicio: Si autem manus tua velpes tuu
+ſcandaliçat te abſcinde eam, &amp; proĳce abe. En verdad, que yan
+la mano, ni el pie, ni el ojo eân eſentos; pero aun ay vida: pue
+no, ni eſa tampoco: Qui non odit Patrem ſuum, &amp; matrem ſuá
+&amp; vxorem, &amp; ﬁlios, &amp; fratres, &amp; ſorores, ad huc autem, &amp;
+animam ſuam non pote meus eβe Diſcipulus. Valgame Dios
+que apretado precepto, que no reſerva ni aun la vida: pero au
+nos queda el ſer. Como? ni el ſer ſe reſerva oigamos: Siqus
+valt po me, Venire, abneget ſemetipſum. Si alguno quie
+re ſeguirme, niegueſe aſmeſmo, veis ay como nada ay reſerva
+do, en importando à ſu ſervicio; pues como hemos de penſar
+no quiere nuero amor para ,  vemos, que los mas licitos a-
+mores, nos prohibe quando ſe oponen al ſuyo, y no como quie-</p>
+      </div>
+      <div type="page">
+        <p>ra, no que les hace guerra à ſangre, y fuego? Ego veni ignem
+mittere in terram, y en otra parte: non veni mittere pacem in
+terram ſed glandium, veni enim ſeparare hominem ad verſus
+Patrem ſuum, &amp; ﬁliam ad verſus Matrem ſuam, &amp; nurum ad
+verſus ſocrum ſuam, &amp; inimici homines domeﬆicieius. En que
+es para mi muy notable, la circunancia de decir Chrio que
+viene á apartar la nuera, de la ſuegra, ya hacer à los criados ene-
+migos de ſu dueño. Pues Señor que necedad ay de que vos los
+aparteis, y enemieis? eos no ſe eàn ſeparados, y enemia-
+dos? apartar al Padre del hĳo; â la hĳa de la madre, al marido de
+la muger, al hermano, del hermano; bien eá: porque todos eſ
+tos ſe aman; pero à la nuera, de la ſuegra, á los criados, de el a-
+mo? no lo entiendo; porque que nuera, no aborrece á ſu ſuegra?
+que criado, no es neceſario enemigo de ſu dueño? pues que ne-
+cedad ay de ſepararlos,  eos lo eán? eſe es el mayor aprie-
+to de el precepto, que aviendo tan pocas eſenciones de buenos-
+criados, y nueras amantes de ſuegras, no obante los compre-
+hende; porque los pocos que ſuele auer de ea linea, no ſe ten-
+gan por eſentos de el precepto que ya yimos, vn Eliezer ﬁel
+criado de Abrahan: y vna Ruth amante de ſu ſuegra Noemi:por
+que es Dios muy zeloſo de lo que toca à ee punto de la prima-
+cia de ſu amor, y a apenas ſe haa Plana Sagrada en que no lo
+repita; Ego ſum Dominus Deus tuus fortids, &amp; zelotes. Yo ſoy
+tu Señor, y Dios, fuerte, y zeloſo, y hace de manera oentacion
+de ſu amor en ſus zelos, que deſpues de auer hecho varias ame-
+nazas à la Sinagoga por ſus maldades, la vltima, y mas terrible es:
+Auﬀeram ate zelum meum. Como  le dixera pues con tantos
+beneﬁcios no te quieres reducir, ni con tantos caigos te quie-
+res enmendar, yo executare en ti el mayor de todos? y qual es Se-
+ñor? qual? Auferam ate zelum meum. Quitarè de ti mis zelos,
+que es ſeñal de que quito de ti mi amor.</p>
+        <p>Quiere Dios examinar la fee de el Patriarcha Abraham, y
+mandale ſacriﬁcar à Iſaac ſu hĳo: haora reparo yo; porque es
+Iſaac el ſeñalado? no era hĳo tambien Iſmael, y  el Sacriﬁcio
+auia de ſer de vn hĳo, no vaaba que fueſe Iſmael, ò almenos 
+Dios le dixera ſacriﬁcame vno de tus hĳos n ſeñalar qual? y de
+xar libre la eleccion â ſu Padre? pues por nombra â Iſaac? atien-</p>
+      </div>
+      <div type="page">
+        <p>daſe à las palabras: Toe ﬁlium tuum quem diligis Iſaac, &amp; ſa-
+criﬁca mihi ium &amp;c. A que el querido es Iſaac? pues ſea Iſa-
+ac el ſacriﬁcado, que parece que eà Dios zeloſo de  ſea Iſaac
+tan amado de ſu Padre, y quiere probar qual amor puede mas
+con Abrahan,  el ſuyo, ô el de el hĳo.</p>
+        <p>Mas: bien ſabemos, que Dios ſabia lo que Ábrahan auia de
+hacer, y que le amaba mas â el, que à Iſaac? pues para que es eſ-
+te examen? ya lo ſabe: pero quiere que lo ſepamos noſotros, por
+que es Dios tan zeloſo, que no ſolo quiere ſer amado, y prefe-
+rido á todas las coſas: pero quiere que eo cone, y lo ſepa to-
+do el mundo, y para eo examinò á Abrahan. De todo eo juz-
+go, que ſe puede conocer el grande aprieto con  Chrio, pide
+nuero amor, y que quando manda que nos amemos, es endo
+ſu Magead el medio de ee amor: dema nera que para amarnos
+vnos, á otros à de ſer ſu Magead el medio, y la vnion, y nadie
+ignora, que el medio que vne dos terminos, ſe vne el mas ere-
+cha è inmediatamente con eos, que á eos entre : Chrio ſe
+pone por medio, y vnion; luego quiere que le amemos quando
+manda que amemos al proximo: dice mas Chrio: Que ſu pre-
+cepto, es que amemos al proximo, como ſu Magead nos ama:
+Hoc eﬆ Preceptum meum vt diligatis in viçem cut dilexi vos.
+Aqui ſolo manda, que nos amemos vnos, à otros; pero para po-
+der cumplir noſotros ee precepto, que diſpocion hemos me-
+neer? el miſmo Chrio la enſeña: Qui diligit me mandatum
+meum ſervavit. Y el Evangelia San Juan en la Epiola I. cap.
+5. díce: Hc e charitas Dei vt mandata eius cuodiamus. Lue-
+go para cumplir el precepto de amar al proximo, hemos de a-
+mar primero â Dios. Si Chrio (como dice en otro Sermon el
+miſmo Autor) ſe ama vid, y â voſotros ſarmientos: Ego ſum
+vitis vos palmites. Y los ſarmientos, primero ſe vnen â la vid,
+que eos entre ; luego quiere Chrio, luego ſolicita Chrio,
+luego manda Chrio que le amemos: creo que me è alargado
+ſuperﬂuamente en lo  por  eá tan claro; pero eſo miſmo cau
+ſa el que ocurra tanto que decir en la materia, que ſe trabaja mas
+en dexarlo, que en ponerlo: De lo dicho juzgo, que ſale por legi-
+tima conſequencia, que Chrio no hiço por noſotros la ﬁneça,
+que el Autor ſupone de no querer correſpondencia; Podran me</p>
+      </div>
+      <div type="page">
+        <p>replicar: Que  ay ﬁneça, que ſea digna de tal nombre, que Xpto
+dexaſe de hacer por noſotros con ſu immenſo amor? Y dirè yo, 
+ ay: Porque ay ﬁneça, que les ocaona â ſerlo nuera limi-
+tada naturaleza, y eſas no hizo Chrio: porque no eran confor-
+mes á ſu perfeccion inﬁnita, ni decente à ſu immenſa Magead,
+ni a la dignidad, y ſoberania ſuya. V.g. Los juos hazen por
+Chrio, algunas ﬁneças, que Chrio no hizo por eos, como
+es reir tentaciones, luchando con nuera naturaleza,  coin-
+quinada con el pecado eà propenſa á el mal, ya mas de eo el
+temor, y peligro de ſer de eas vencido, y pelear con incerti-
+dumbre de la vioria, ó la perdida; ninguna de eas dos eſpe-
+cies de neças pudo hazer Chrio; pues ni pudo ſer tentado, ni
+menos temer peligros de pecar: pues aunque ſu Magead fue
+Ilebado al deerto: Vt tentaretur à diabolo: bien ſaben los Doc-
+tos, como ſe entiende ee lugar, y lo explica el glorioſo Doc-
+tor San Gregorio ſobre el miſmo, diciendo, que la tentacion,
+es entres maneras, por ſugeion, deleacion, ô conſentimien-
+to: de el primer modo [dice] ſolamente pudo Chrio ſer ten-
+tado de el demonio: porque noſotros quando ſomos tentados,
+las mas veçes caemos, ô en el conſentimiento, ò en la delea-
+cion, ó podemos al menos caer en vna de las dos coſas, ô en am-
+bas: porque como hĳos de pecado, y concebidos en el, tenemos
+en noſotros miſmos la ſemia de la culpa, que es el fomes pecati
+ nos inclina á pecar, pero Chrio naciẽdo de Madre Virgen, y
+por Concepcion milagroſa era impecable, por lo qual no pudo
+ſentir en  ninguna repugnancia, ni contradiccion al obrar bien
+y a ſolo pudo ſer tentado, por ſugeion, que es vna tenta-
+cion extrinſeca, y que eaba muy lexor de ſu mente, y no le Po-
+dia inclinar, ni hacer guerra ninguna: y no teniendo, ni la lucha,
+ni el rieſgo, no pudo hacer la ﬁneça de reir, ni temer el rieſgo
+de pecar: Por lo qual dice el Apool: Adimpleo ea, qu de ſunt
+paſsionum Chriﬆi incarne mea pro corpore eius, quod e Eccle-
+a. Pues como  fue copioſa la red encion [Copioſa apud eum re-
+demptio] dice S. Pablo; que, que añade, ò que ena la Paon
+de Chrio? A la Paion pudo faltarle algo? Que hizo S. Pablo,
+que no hizo Chrio? El miſmo Apool lo dice. Datus eﬆ mihi
+ﬆimulas carnis me Angelus Satan qui me colaphizet. Eoes</p>
+      </div>
+      <div type="page">
+        <p>lo que faltô á la Paon de Chrio, luchar con tentaciones, y te
+ner peligros de pecar, y eo es lo con que dice San Pablo, que
+ena la Paon de Chrio, y eas ſon las ﬁneças que no pudo
+hacer Chrio, y podemos hacer noſotros.</p>
+        <p>Pues a el no querer correſpondencia fuera ﬁneça en vn a
+mor humano: porque fuera denteres; pero en el de Chrio, no
+lo fuera porque no tiene interes ninguno en nuera correſpon-
+dencia: Pruebolo: El amor humano haa en ſer correſpondido
+algo, que le faltara, no lo fuera, como el deleite, la vtilidad, el
+aplauſo &amp;c: pero al de Chrio nada le falta, aunque no le cor-
+reſpondamos: en , y congo ſe tiene todos ſus deleites, todas
+ſus riquezas, y todos ſus bienes, luego nada renunciara,  renun-
+ciara nuera correſpondencia, pues nada le añade, y el renun-
+ciar lo que era nada, no era ninguna ﬁneça, y como no era ﬁne-
+ça en Chrio: por eſo no la hace Chrio por noſotros. En el
+libro de Job al capitulo 35. ſe lee hablando de la ſoberania con
+que Dios no nos â meneer: Si iue egeris quid donabis ei? aut
+quid de manu tua accipiet? Homini qui milis tui e, noce bit ini-
+quitas tua, &amp; ﬁlium hominis adiuuabit iu itia tua. De donde ſa-
+le claro, que noſotros necetamos de correſpondencias: porque
+nos trae vtilidades, y por tanto fuera ﬁneça [y muy grande] el
+renunciarlas: pero en Chrio, que no le reſulta ninguna de nra
+correſpondencia, no fuera ﬁneça el no quererlas, y por eſo [co-
+mo ya dixe] no la hace Chrio por noſotros; y antes hace lo
+contrario, que es ſolicitar nuera correſpondencia n hauerla
+meneer, y eſa es la ﬁneça de Chrio.</p>
+        <p>Es el amor de Chrio, muy al reves de el de los hombres,
+los hombres quieren la correſpondencia, porque es bien proprio
+ſuyo; Chrio quiere eſa miſma correſpondencia, para bien
+ageno, que es el de los proprios hombres, á mi parecer el Au
+tor andubo muy cerca de ee punto: pero equivocolo, y dixo lo
+contrario; porque viendo á Chrio dentereſado, ſe perſuadió
+á que no queria ſer correſpondido, v es que no diò el Autor diſ-
+tincion entre correſpondencia, y vtilidad de la correſponden-
+cia, y eo vltimo es lo que Chrio renunciò no la correſpondé-
+cia: y a la propocion de el Autor es que Chrio no quiſo la</p>
+      </div>
+      <div type="page">
+        <p>correſpondencia para , no para los hombres, la mia es que
+Chrio qui ſo la correſpondencia para ; pero la vtilidad que
+reſulta de eſa correſpondencia la quiſo para los hombres. Acà el
+amante hace la correſpondencia medio para ſu bien, Chrio ha-
+ce la correſpondencia medio para bien de los hombres: de ma-
+nera, que diuide la correſpondencia, y el ﬁn de la correſpondẽ-
+cia, la correſponde ncia reſerva para , el ﬁn de ea que es la vti
+lidad, que de ea reſulta, ſe la dexa à los hombres, acà los aman-
+tes reciprocos quieren el bien de ſu amor para ſu amado; pero el
+bien de el amor de el amado para : Chrio el bien de el amor,
+que tiene al hombre, y el bien de el amor, que el hombre le tie-
+ne, todo quiere que ſea para el hombre. Examina Chrio à Pe-
+dro de ſu amor, y dicele: Petre amas me. Reſponde Pedro con
+aqueas ardientes ponderaciones, que brotaba ſu encendido co-
+raçon: que , y que pondrà la vida por ſu amor. V eamos para 
+es ee examen tan apretado de Chrio? nduda que quiere que
+Pedro le haga algun gran ſervicio: Si quiere. Y qual es? Paſce o-
+ves meas. Eo es lo  quiere Chrio,  el amor de Pedro ſea ſu-
+yo; pero que la vtilidad reſulte en las ovejas. Bien pudiera Xpto
+decirle à Pedro (y parece que era mas congruente) Pedro amas
+â las ouejas? pues apacientalas; y no dice no: Pedro me amas
+ami? pues guarda mis ovejas. Luego quiere el amor para ; y la
+vtilidad para los hombres?</p>
+        <p>Pudieranme aora replicar diciendo:  Chrio no â me
+neer el amor de el hombre para bien ſuyo;  no para el bien del
+miſmo hombre, y para ee bien baa el amor de Chrio, que es
+quien nos ha de hacer el bien; para que ſolicita el amor del hom-
+bre, pues nque el hombre le ame, puede Chrio hacerle bien?</p>
+        <p>Para reſponder â ea replica, es meneer acordarnos que
+Dios diô al hombre libre alvedrio con que puede querer, y no
+querer; obrar bien, ô mal; nque para eo pueda padecer vio-
+lencia; porque es omenaxẽ, que Dios le hizo, y carta de liber-
+tad autentica, que le otorgô. Pues agora de la raiz de ea liber-
+tad; naçe: que no baa que Dios quiera ſer de el hombre,  el
+hombrè no quiere que Dios ſea ſuyo, y como el ſer Dios de el
+hombre, es el ſumo bien de el hombre, y eo no puede ſer n</p>
+      </div>
+      <div type="page">
+        <p>el hombre quiera: por eſo quiere Dios, ſolicita, y manda al hom
+bre, que le ame; porque el amar à Dios es bien de el hombre. Di
+ce el Real Propheta David: que Dios, es Dios, y Señor; porque
+no neceta de nueros bienes: Dixi Domino: Deus meus es ti
+quoniã bonorũ meorũ non eges. Aqui ſe conoce claro q Dios no ne
+ceta de nueros bienes: deſpues hablando en perſona del miſ
+mo Señor dice (haciendo oentacion de ſu poder) Yo no he m
+neer vueﬆros ſacriﬁcios, ni vueros holocauos. Yo no recivi
+vueros becerros, ni vueros hircos, mias ſon todas las aves, q
+buelan, y las ﬁeras que pacen, mia toda la abundancia que pro
+duce en ſus frutos la tierra, mia en ﬁn toda la maquina del orbe
+Por ventura penſais, que me ſuentan las carnes de los toros
+õ que bebo la ſangre vertida de los cabritos? Pues Señor alti
+mo (le pudieramos reſponder)  de nada necetais, porque to
+do es vuero,  deſdeﬁais todas las viimas, y no acceptais los
+lacriﬁcios,  ſois todo poderoſo, é inﬁnitamente rico, que po
+dremos hacer en vuero ſervicio, vueras pobres criaturas? ved
+que es deſconſuelo nuero el no poderos ofrecer nada; porque
+lo teneis todo, quando nos teneis tan obligados con vueſros in
+ﬁnitos beneﬁcios. Si podeis [parece que nos reſponde] al ver-
+ſo 14 del miſmo Pſalmo: Et invoca me in die tribulationis, &amp;
+eruam te, &amp; honoriﬁcabis me [como  dixera] Hombre quiere?
+correſponder á lo mucho  te he dado? pues pideme mas, y eſo re
+çivo yo por paga, amame en tustrabajos, para quete libre deos
+que eſa conﬁança tuya, tengo yo por honrramia. O primor de el
+divino amor, decir que es honor ſuyo; lo que es provecho nueſ-
+tro, ò ſabiduria de Dios! ô liberalidad de Dios! y ò ﬁneça ſolo de
+Dios! y ſolo dignas de Dios para eo quiere Dios nro amor para
+nuero bien, no para el ſuyo, y eo fue el primor de ſu ﬁneça
+no el no querer nuera correſpondencia (como quiere el Au
+tor] no el quererla para bien nuero.</p>
+        <p>Ya queda probado, que Chrio quiſo nuera correſpon
+dencia, y que ſu ﬁneça mayor fue el quererla: Falta agora el
+probar lo que prometi, que es: que quando ſupongamos, que
+tuera ﬁneça el no quererla, no le faltaran (como quiere el Au
+tor) pruebas, ni exemplares â eſa ﬁneça, en la Sagrada Eſcrip</p>
+      </div>
+      <div type="page">
+        <p>tura, aunque el Autor la hace tan grande, y tan ﬁn exemplar, 
+dice: Que no à avido quien del amor que tiene, quiera para otro
+la correſpondencia. Veamos  yo hao alguno  lo aya hecho.</p>
+        <p>Mata Abſalon â ſu hermano Amnon por el eupro de Tha-
+mar, y que hace ſu Padre el Rey David? ſe indigna tanto que o-
+bliga à Abſalon â ſalir huyendo de la muerte á Geſur, y perma-
+nece tan airado el Rey, que aun Joab ſu primer miniro no ſe
+atreve à hablar en ſu perdon; no es por medio de la Thecuites,
+y aun deſpues de todo no quiere David, que Abſalon le vea la
+cara. Grande enojo! grande ira! Buelve en ﬁn Abſalon à la gracia
+de ſu padre, y apenas ſe vee en ea, quando traidor, y rebelde
+â ſu amor, y à ſu corona, ſe hace aclamar Rey en Ebron: procura
+no ſolo quitar à ſu Padre el Reyno: pero la vida, y la honrra pro
+fanando publicamente ſus lechos. O que ofenſas! ô que ingrati-
+tudes! ó que vltraxes! Que tal podemos eſperar, que ee David,
+de indignado, de ofendido; de airado contra tan mal hijo, con-
+tra tan traidor vaao? deſabrocha las Eumenides irritadas de
+ſu pecho? Poco falta para que lo veamos, que ya la fortuna de
+las armas eà en favor de David, y ſe podrá vengar â ſu ſatisfa-
+cion. Oygamos el orden que para eo dâ al general Joab: Obſer-
+vate mihi puerum Abſalon. Jesvs! que orden es ea tan al reves
+de lo que ſe eſperava? Pues no para aì. Quebranta Joab inobediẽ
+te el orden, mata à Abſalon. Y que hace David. Que? ora, y ſe
+buelbe toda la vioria en anto, y no como quiera;  no deſea
+ſer el, el muerto; porque ſea Abſalon el viuo: Fili mi Abſalon,
+quis mihi det vt ego moriar pro te? Que es eo David? a orais
+por vn hijo tã enemigo? por vn vaſao tã traidor? por quiẽ osque
+ria quitar la vida, quereis vos dar la vuera? y ya que es tan grã-
+de vuero amor, que le querais perdonar tan excecrables malda-
+des contra vos, como quando mató à ſu hermano Amnon, no
+morais ea ternura; no que le querais matar â el? Ee es el
+miſmo Abſalon; pues como ay eais airado, por la menor ofen-
+ſa, que fue matar â ſu hermano, y aqui por la mayor, que es que-
+reros matar á vós, no ſolo no eais enojado, mas eais tierno?
+mas ſentimiento hiciis de que Abſalon fuee cruel con Amnon,
+que no de que lo fueſe con vos? mas ſentis que faltaſe Abſalon al</p>
+      </div>
+      <div type="page">
+        <p>amor de Amnon, que al vuero? , a paſò: pues aora para
+quien pedia David la correſpondencia de ſu amor? bien claro ſe
+vee, que para Amnon: y no para ; luego ay prueba de exem-
+plares de quien buſca para otro la correſpondencia que ſe le de-
+ve; luego quando fuera ﬁneça en Chrio no buſcar correſpon-
+dencia, no careceria de prueba, como dìxo el Autor, que es la ſe-
+gunda parte aque prometi reſponder.</p>
+        <p>Con lo qual me parece, que aun que con mi rudeça, cortedad,
+y poco eudio, he obedecido â V md en lo que me mandò: la de
+maada priſa con que lo he eſcrito, no à dado lugar à pulir algo
+mas el diſcurſo: porque: feﬆina canis ccos facit catulos. Re-
+mitole en embrion, como ſuele la Oſa parir ſus informes cachor.
+rios, y a eva ee deſeo mas entre los muchos,  U md.
+le reconocerâ: pero todos van á ſus manos de U md. que vnos
+corregirá con diſcrecion, y otros ſuplirá con ſu amiad, el aſun
+to tambien con ſu diﬁcultad dexa diſculpado el no conſeguirſe,
+pues en blanco inacceble, no queda tan deſayrado el hierro de
+el tiro, como en los comunes, y baa para viçarria en los Pig
+meos atreverſe á Hercules, à via de el elevado ingenio de el
+Autor, aun los muy gigantes parecen enanos; pues que harà vna
+pobre muger? Aunque ya ſe viò, que vna quitò la clava de las ma
+nos â Alcides, endo vno de los tres impobles, que venero la
+antiguedad, y hablando mas â lo chriiano: Qu ulta ſunt mũ
+di, elegit Deus, vt confundat ſapientes, &amp; inﬁrma mundi elegit
+Deus, vt confundat fortia, &amp; ignobilia, &amp; contemptibilia elegi?
+Deus, &amp; ea qu non ſunt, vt ea qu ſunt derueret, vt non glo
+rietur omnis caro in conſpeu eius. Creo cierto,   algo evare
+de acierto ee papel, no es obra de mi entendimiento; no ſol
+que Dios quiere caigar con tan ﬂaco Inrumento la (alpare
+cer] elacion de aquea propocion, Que no abria quien le die
+ſe otra ﬁneça igual: conque cree el orador, que puede aventaja
+ſu ingenio á los de los tres Santos Padres, y no cree que pued
+aver quien le iguale, y penſando que no ſe erechó la mano di
+Dios á Auguino, Criſoomo, y Thomas, pienſa que ſe abreviò
+el, para no poder criar quien le reſponda, que quando yo no ay
+conſeguido mas que el atreverme â hacerlo, fuera baante mort</p>
+      </div>
+      <div type="page">
+        <p>ﬁcacion para vn varon tan de todas maneras ingne, que no es
+lĳero caigo aquien creyò, que no avria hombre, que ſe atre vie-
+ſe à reſponderle, ver que ſe atreve v na muger ignorante, en quiẽ
+es tan ageno ee genero de eudio, y tã diante de ſu ſexo; pero
+tambien lo era de Judit el manexo de las armas, y de Debora la ju
+dicatura. Y  con todo pareciere en eo poco cuerda, con rom-
+per V md. ee papel que dará multado el error de auerlo eſcrito.
+Finalmente aunque ee papel ſea tan priuado, que ſolo lo eſeti-
+bo porque U md. lo manda, y para que V md. lo vea, le ſujeto
+en todo á la correccion de N. S. M. Iglea Catholica, y deteſ-
+to, y doy por nuo, y por nodicho todo aqueo que ſe apartare
+de el comun ſentir ſuyo, y de los Santos Padres. V ale. Bien a vrà
+V md creido viendome clanſular ee diſcurſo, que me he olbida-
+do de eſotro punto, que V md. me mandô, que eſcrivieſe que
+qual es en mi ſentir: La mayor ﬁneça de el amor divino. Lo
+qual me o yô V md. diſcurrir en la miſma converſacion ci-
+tada; pues no â do olbido, no advertencia: porque ai como
+era vna converſacion ſucceua, fu eron amando vnos diſcurſos
+à otros, aunque no fueſe muy de el caſo, y aqui es neceſario ha-
+cer ſepa racion de los que no lo ſon, para no confun dir vno con
+otro; explicome. Como hablamos de ﬁneças; dixe yo, que la ma-
+yor ﬁneça de Dios [en mi ſentir] Eran los beneﬁcios negati-
+vos, eo es, los heneﬁcios que nos dexa de hacer: por que ſabe lo
+mal  los emos de correſponder. A ora, ee modo de opinar tiene
+mue ha diſ paridad con el de el Autor; por el Autor habla de ﬁne
+ças de Xpto y hechas en el ﬁn de ſu vida; y ea ﬁneça,  yo digo,
+es ﬁneça que hace Dios, en quanto Dios, y ﬁneça continuada
+empre, y a no fuera razon oponer ea á las que el Autor di-
+ce: antes bien fuera vna muy vicioſa argumentacion, y muy cen-
+ſurabie, por lo qual me parecio lepararla, y como diſcurſo ſuel-
+to, è inde pendiente de lo de mas ponerlo aqui, para que V md. lo-
+gre del todo el deſeo, pues el mio es ſolo obedecerle.</p>
+        <p>La mayar ﬁne ça de el divino amor (en mi ſentir) ſon los be-
+neﬁcios, que nos dexa de hacer por nuera ingratitud. Pruebo-
+lo. Dios es innita bondad, y bien ſumo, y como tal es de ſu pro-
+ptia naturaleza comunicable, y deſeoſo de hacer bien â ſus cria-</p>
+      </div>
+      <div type="page">
+        <p>turas. Mas: Dios tiene inﬁnito amor â los hombres; luego em-
+pre eá prompto â hacerles inﬁnitos bienes? Mas: Dios es todo
+poderoſo, y puede hacerles à los hombres todos los bienes que
+quiere n coarle trabaxo, y ſu deſeo es hacerlos; luego Dios
+quando les hace bienes á los hombres, vâ con el corriente natu-
+ral de ſu propia bondad, de ſu proprio amor, y de ſu proprio po
+der, n coarle nada? claro eá; Luego quando Dios no le hace
+beneﬁcios al hombre: porque los â de convertir el hombre en ſu
+daño, reprime Dios los raudales de ſu immenſa liberalidad, de-
+tiene el mar de ſu inﬁnito amor, y eanca el curſo de ſu abſolu-
+to poder. Luego (ſegun nuero modo de concebir) mas le cueſ
+ta á Dios el no hacernos beneﬁcios, que no el hacernoslos, y por
+conguiente mayor ﬁneça es el ſuſpenderlos, que el executar-
+los: pues dexa Dios de ſer liberal, que es propia condicion ſuya,
+porque noſotros no ſeamos ingratos,  es proprio retorno nueſ-
+tro, y quiere mas parecer es caſo: porque los hombres no ſean
+peores, que oentar ſu largueza con daño de los miſmos beneﬁ-
+cios: y endo a, que ea es vna como nota en la opinion de li-
+beral, antepone ėl aprovechamiento de los hombres â ſu propria
+opinion, y á ſu proprio natural.</p>
+        <p>Predica el Redemptor ſu milagroſa dorina, y auiendo he-
+cho en tantos lugares, tantos milagros, y maravias; ega â ſu
+patria, que parece que debia ſer preferida en el cariño, y apenas
+ega quando en vez de aplaudir ſus vecinos, y compatriotas em
+pieçan â cenſurarle, y aſacarle las que à ſu parecer de eos eran
+faltas diciendo: Non ne hic e fabri ﬁlius? non ne Mater eius di
+citur Maria, &amp; fratres lacobus, &amp; Ioſeph, &amp; Simon, &amp; ludas,
+&amp; ſorores eius non ne omnes apud nos ſunt? vn de ergo huic omnia
+iﬆa? Y progue el Evangelia. Non fecit ibi vir tutes multas
+propter incredulitatem eorum. Demanera,  Chrio bien que
+ria hacer milagros en ſu patria, bien queria hacerles beneﬁcios,
+pero moraron eos luego ſu dañado animo en la murmuraciö
+y el modo conque recibirian los favores de Chrio, y por eſo ſe
+contuvo Chrio en hacerlos por no darles ocaon de ſer mas
+malos, como lo expreſa el Evangeliſra: Que no hizo muc has ma-
+ravias por ſu incredulidad Y bien ſabia Chrio, que tambiẽ</p>
+      </div>
+      <div type="page">
+        <p>le auian eos de murmurar el no hacerlas, y tener por eſcaſo, y
+avaro, y a les á delantò el miſmo lo que eos auian de decir,
+y les dixo: Vtique dicetis mihi hanc militudinem: Medice cura
+te ipſum: quanta audivimusfaa in capharnaum fac, et hic in pa-
+tria tua. Y para ſatisfacer â la calumnia antevia les dice que:
+en tiempo de Elias avia muchas viudas, y ſola vna fue remediada
+y que muchos leproſos avia en tiempo de Eliſeo, y ſolo curó à
+Naaman Syro, y que ningun Profeta es accepto en ſu patria; e-
+os no entẽdiẽdo la ſatisfacion, y proguiẽdo en la calumnia, le
+quieron precipitar: conﬁrmãdo con ea maldad el motivo: por
+que Chrio no les hacia beneﬁcio potivo, no el negativo
+de no darles ocaon de cometer mayorpecado; ee fue el
+mayor beneﬁcio, que pudo Chrio hacer por entonces à ſu
+ingrata patria, en que la preﬁriô à aqueas dos Ciudades,
+que el miſmo Señor amenaçaba por haber do ingratas à las
+maravias, que en eas obrô diciendo: V tibi Coroza in, v
+tibi Bethſaida, quia  in Tyro, &amp; Sidone fa eent virtutes,
+qu fa ſunt in vobis olim in cilicio, &amp; cinere pnitentiam
+egient. Verumtamem dico vobis Tyro, &amp; Sidoniremius erit
+in die judicĳ quam vobis. Ay de voſotros, que  en Tiro, y Sidon
+ſe vuieran hecho las maravias, que ſe han hecho en voſotras,
+ſe vuieran ya convertido: pero yo os aſeguro, que en el juicio
+tremendo ſerân eas menos caigadas, que voſotras.</p>
+        <p>Luego de ee mayor cargo eſcuſa el Señor â Nazaret, con
+no hacerle beneﬁcios, y en tonces es el mayor beneﬁcio el no
+hacerlos: porque eſcuſa el mayor cargo, que de el le reſultara:
+Gravius (dice el glorioſo San Gregorio) inde iudicemur cum
+enim augentur dona rationes etiam creſcunt donorum. Mien-
+tras mas es lo recebido, mas grave es el cargo de la cuenta; lue-
+go es beneﬁcio el no hacernos beneﬁcios, quando emos de vſar
+mal de eos. Hizo Dios à Judas fuera de los beneﬁcios genera-
+les muchos particulares, y egando el caſo de ſu ſacrilega
+traicion, lamentando Chrio no ſu muerte, no el daño de el
+ingrato Diſcipulo dice: V homini ii perquemtradar ego: me-
+lius er at ii  natus non fuiβet. Con que parece, que ſe arre-
+piente de averle hecho el beneﬁcio de la creacion: porque le eſ-</p>
+      </div>
+      <div type="page">
+        <p>tuviera mejor el no aver nacido, que nacer para ſer tan malo.
+Mas claro ſe dà à entender eo, quando ofendido Dios de las,
+maldades de los hombres, determinó àcabar el mundo por a-
+gua, pues vſando las muchas locuciones, dice el Texto, que
+dixo: Delebo, inquit, hominem, quem creaui afacie terr ab
+homine vſque ad animantia, á reptil¡ vſque ad volucres Cli
+pnitet enim me fecie eos. De manera que ſe arrepiente Dios
+de haber hecho beneﬁcios al hombre, que ande ſer para mayor
+daño de el hombre; luego es mayor beneﬁcio el no hacerle be-
+neﬁcios? A Señor, y Dios mio, que torpes, y ciegos andamos,
+quando no os reconocemos ea eſpecie de beneﬁcio negativo,
+que nos haceis! Tiene el otro corta fortuna, y (quando mucho]
+dice que es: Caigo de Dios. Quando ſea caigo, el caigo tam-
+bien es beneﬁcio: pues mira á nuera enmienda, y Dios caiga
+aqiuen ama: pero no es ſolo el beneﬁcio de caigarnos el que
+nos hace; no el beneﬁcio de exonerarnos de mayor quenta.
+Tiene el otro poca ſalud, y le parece que eá Dios ſordo, porque
+no oye ſus lamentos: no eâ tal; no haciendoos el beneﬁcio de
+no daros ſalud, porque la aueis de emplear mal. Imbidiamos en
+nueros proximos los bienes de fortuna, los dotes naturales, ô
+que errado vâ el objeto de la imbidia! pues ſolo debia ſerlo de
+la laima de el gran cargo que tiene, de que ha dedar quenta eſ-
+trecha. Y ya que queramos imbidiar, no imbidiemos las mer-
+cedes que Dios le hizo; no lo bien que correſponde à eos,
+que eo es lo que ſe debe imbidiar, que es lo que le dà merito;
+no el auerla recebido, que eſo es cargo. Eimemos el beneﬁ-
+cio  Dios nos hace, en no hacernos todos los beneﬁcios  que-
+remos, y los que tambien ſu Magead quiere hacernos, y ſuſ-
+pende por no darnos mayor cargo. Agradezcamos, y pondere-
+mos ee primor de el divino amor, en quien el premiar es bene-
+ﬁcio, el caigares beneﬁcio, y el ſuſpender los beneﬁos, es el
+mayor beneﬁo, y el no hacer ﬁneças, Ia mayor ﬁneça; y no di-
+ganme: Dios, que diò al mundo ſu Vnigenito, que encarnò, y
+muriô por el hombre, que podrâ negar al hombre? Nada. El miſ-
+mo dice: Quis e ex vobis homo quem  petierit ﬁlius ſuis pa-
+nem, numquid lapidem porriget ei? aut  piſcem petierit, nữquid</p>
+      </div>
+      <div type="page">
+        <p>ſerpentem porriget e i?  ergo vos cum tis mali, nois bona da-
+ta dare ﬁlĳs ver is, quãto magis pater veer qui in Clis e da
+bit bona petẽtibus ſe? Pues Señor: Como la madre de los hĳos de
+el Zebedeo os pide las as, y no ſe las dais? porque nô ſaben
+lo que ſe piden, y en Dios mayor beneﬁcio es no dar (endo ſu
+condicion natural: porque no nos conviene) que dar endo
+tan liberal, y poderoſo. Y a juzgo, ſer ea la mayor ﬁneça
+que Dios hace por los hombres. Su Magead nos de gracia pa-
+ra conocerlas correſpondiendolas, que es mejor conocimiento,
+y que el ponderar ſus beneﬁcios, no ſe quede en diſcurſos eſpe-
+culativos: no que paſe à ſeruicios praicos, para que ſus bene-
+ﬁcios negativos ſe paſen apotivos, haando en noſotros
+digna diſpocion, que rompa la prea â los eanca-
+dos raudales de la liberalidad divina, que detie-
+ne, y reprea nuera ingratitud. Y à V md.
+me guarde muchos años; buelbo à poner
+todo lo dicho debajo de la cenſura de
+N. S. M. Iglea Catholica. Como ſu
+mas obediente hĳa. Iterum Vale.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

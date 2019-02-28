@@ -1,0 +1,2295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://www.digitisation.eu/tools/language-resources/impact-es/impact-es-corpus.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es" xml:id="file-8107.xml">
+  <teiHeader>
+    <fileDesc>
+      <sourceDesc>
+        <bibl>
+          <title>Farsa de Abraham</title>
+          <author>Diego Sánchez de Badajoz</author>
+          <date type="first-edition">1554</date>
+          <date type="source-edition">1554</date>
+        </bibl>
+      </sourceDesc>
+      <editionStmt>
+        <respStmt>
+          <resp>Created by IMPACT project based on an original from the Biblioteca Virtual Miguel de Cervantes.
+                Annotation with lemma, modern form, and part of speech by</resp>
+          <name>Universidad de Alicante and Fundación Biblioteca Virtual Miguel de Cervantes</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="pb">
+        <ab type="p">
+          <w>FARSA</w>
+          <w lemma="de" type="pr">
+            <choice>
+              <orig>DE</orig>
+              <reg>de</reg>
+            </choice>
+          </w>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w>que</w>
+          <w lemma="entrar" type="verb">
+            <choice>
+              <orig>entran</orig>
+              <reg>entran</reg>
+            </choice>
+          </w>
+          <w lemma="siete" type="num">
+            <choice>
+              <orig>siete</orig>
+              <reg>siete</reg>
+            </choice>
+          </w>
+          <w>figuras</w>
+          <pc>:</pc>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>SARRA</w>
+          <w>su</w>
+          <w lemma="mujer" type="n">
+            <choice>
+              <orig>MUGER</orig>
+              <reg>mujer</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>tres</w>
+          <w lemma="ángel" type="n">
+            <choice>
+              <orig>ÁNGELES</orig>
+              <reg>ángeles</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>un</w>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>SARRA</w>
+          <w>a</w>
+          <w>de</w>
+          <w>estar</w>
+          <w lemma="debajo" type="adv">
+            <choice>
+              <orig>debaxo</orig>
+              <reg>debajo</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>un</w>
+          <w>pavellón</w>
+          <w>y</w>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>la</w>
+          <w>puerta</w>
+          <w>sentado</w>
+          <w>en</w>
+          <w>una</w>
+          <w lemma="silla" type="n">
+            <choice>
+              <orig>silla</orig>
+              <reg>silla</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>el</w>
+          <w>MOÇOdelante</w>
+          <w lemma="levantar" type="verb">
+            <choice>
+              <orig>levantado</orig>
+              <reg>levantado</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w>los</w>
+          <w>tres</w>
+          <w lemma="ángel" type="n">
+            <choice>
+              <orig>ÁNGELES</orig>
+              <reg>ángeles</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="encubierto" type="adj">
+            <choice>
+              <orig>encubiertos</orig>
+              <reg>encubiertos</reg>
+            </choice>
+          </w>
+          <w>hasta</w>
+          <w>que</w>
+          <w lemma="salir" type="verb">
+            <choice>
+              <orig>salgan</orig>
+              <reg>salgan</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>su</w>
+          <w>tiempo</w>
+          <pc>.</pc>
+          <w>A</w>
+          <w>de</w>
+          <w>estar</w>
+          <w lemma="par" type="adv">
+            <choice>
+              <orig>par</orig>
+              <reg>par</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>el</w>
+          <w>pavellón</w>
+          <w>una</w>
+          <w lemma="encina" type="n">
+            <choice>
+              <orig>enzina</orig>
+              <reg>encina</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>El</w>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <w>dize</w>
+          <w>primero</w>
+          <c>(</c>
+          <w>Este</w>
+          <w lemma="año" type="n">
+            <choice>
+              <orig>año</orig>
+              <reg>año</reg>
+            </choice>
+          </w>
+          <w>se</w>
+          <w>crisó</w>
+          <w>el</w>
+          <w>sol</w>
+          <w>las</w>
+          <w lemma="once" type="num">
+            <choice>
+              <orig>onze</orig>
+              <reg>once</reg>
+            </choice>
+          </w>
+          <w lemma="parte" type="n">
+            <choice>
+              <orig>partes</orig>
+              <reg>partes</reg>
+            </choice>
+          </w>
+          <c>)</c><pc>:</pc>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w lemma="gracia" type="n">
+            <choice>
+              <orig>Gracias</orig>
+              <reg>gracias</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>Dios</w>
+          <w>soberano</w>
+          <w>que</w>
+          <w>me</w>
+          <w>escapo</w>
+          <w>deste</w>
+          <w lemma="invierno" type="n">
+            <choice>
+              <orig>invierno</orig>
+              <reg>invierno</reg>
+            </choice>
+          </w>
+          <pc>!!</pc>
+          <w>Dios</w>
+          <pc>,</pc>
+          <w>que</w>
+          <w>el</w>
+          <w lemma="frío" type="n">
+            <choice>
+              <orig>frío</orig>
+              <reg>frío</reg>
+            </choice>
+          </w>
+          <w>es</w>
+          <w>el</w>
+          <w lemma="infierno" type="n">
+            <choice>
+              <orig>infierno</orig>
+              <reg>infierno</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>una</w>
+          <w lemma="grolla" type="n">
+            <choice>
+              <orig>grolla</orig>
+              <reg>grolla</reg>
+            </choice>
+          </w>
+          <w>es</w>
+          <w>el</w>
+          <w lemma="verano" type="n">
+            <choice>
+              <orig>verano</orig>
+              <reg>verano</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w>Quando</w>
+          <w>el</w>
+          <w>sol</w>
+          <w>está</w>
+          <w lemma="cercano" type="adj">
+            <choice>
+              <orig>cercano</orig>
+              <reg>cercano</reg>
+            </choice>
+          </w>
+          <w>el</w>
+          <w lemma="corazón" type="n">
+            <choice>
+              <orig>coraçón</orig>
+              <reg>corazón</reg>
+            </choice>
+          </w>
+          <w>se</w>
+          <w>me</w>
+          <w lemma="alegrar" type="verb">
+            <choice>
+              <orig>alegra</orig>
+              <reg>alegra</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>si</w>
+          <w>se</w>
+          <w lemma="alejar" type="verb">
+            <choice>
+              <orig>alexa</orig>
+              <reg>aleja</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w lemma="hora" type="n">
+            <choice>
+              <orig>ora</orig>
+              <reg>hora</reg>
+            </choice>
+          </w>
+          <w>negra</w>
+          <w>la</w>
+          <w lemma="tiniebla" type="n">
+            <choice>
+              <orig>tiniebla</orig>
+              <reg>tiniebla</reg>
+            </choice>
+          </w>
+          <w>está</w>
+          <w>en</w>
+          <w>la</w>
+          <w>mano</w>
+          <pc>.</pc>
+          <w>De</w>
+          <w>aquesta</w>
+          <w lemma="mismo" type="adj">
+            <choice>
+              <orig>mesma</orig>
+              <reg>misma</reg>
+            </choice>
+          </w>
+          <w lemma="figura" type="n">
+            <choice>
+              <orig>figura</orig>
+              <reg>figura</reg>
+            </choice>
+          </w>
+          <w>es</w>
+          <w>nuestra</w>
+          <w>alma</w>
+          <w>y</w>
+          <w>nuestro</w>
+          <w>esprito</w>
+          <w>que</w>
+          <w>con</w>
+          <w>Dios</w>
+          <pc>,</pc>
+          <w>sol</w>
+          <w>infinito</w>
+          <pc>,</pc>
+          <w>está</w>
+          <w lemma="alegre" type="adj">
+            <choice>
+              <orig>alegre</orig>
+              <reg>alegre</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>muy</w>
+          <w lemma="seguro" type="adj">
+            <choice>
+              <orig>segura</orig>
+              <reg>segura</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w>mas</w>
+          <w>si</w>
+          <w>por</w>
+          <w>desaventura</w>
+          <w lemma="pecar" type="verb">
+            <choice>
+              <orig>pecando</orig>
+              <reg>pecando</reg>
+            </choice>
+          </w>
+          <w>se</w>
+          <w lemma="alejar" type="verb">
+            <choice>
+              <orig>alexa</orig>
+              <reg>aleja</reg>
+            </choice>
+          </w>
+          <w lemma="de él" type="pr prn">
+            <choice>
+              <orig>dél</orig>
+              <reg>de él</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>más</w>
+          <w>amarga</w>
+          <w>que</w>
+          <w>la</w>
+          <w lemma="hiel" type="n">
+            <choice>
+              <orig>hiel</orig>
+              <reg>hiel</reg>
+            </choice>
+          </w>
+          <w>queda</w>
+          <pc>,</pc>
+          <w>triste</w>
+          <w>y</w>
+          <w>muy</w>
+          <w lemma="oscuro" type="adj">
+            <choice>
+              <orig>escura</orig>
+              <reg>oscura</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="nunca" type="adv">
+            <choice>
+              <orig>Nunca</orig>
+              <reg>nunca</reg>
+            </choice>
+          </w>
+          <w lemma="pensar" type="verb">
+            <choice>
+              <orig>pensé</orig>
+              <reg>pensé</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>morir</w>
+          <w>sino</w>
+          <w lemma="el" type="det">
+            <choice>
+              <orig>ell</orig>
+              <reg>el</reg>
+            </choice>
+          </w>
+          <w>otro</w>
+          <w lemma="año" type="n">
+            <choice>
+              <orig>año</orig>
+              <reg>año</reg>
+            </choice>
+          </w>
+          <w lemma="pasado" type="adj">
+            <choice>
+              <orig>pasado</orig>
+              <reg>pasado</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>quando</w>
+          <w>el</w>
+          <w>sol</w>
+          <w lemma="ver" type="verb">
+            <choice>
+              <orig>vide</orig>
+              <reg>vi</reg>
+            </choice>
+          </w>
+          <w>escrasado</w>
+          <w>no</w>
+          <w lemma="saber" type="verb">
+            <choice>
+              <orig>supe</orig>
+              <reg>supe</reg>
+            </choice>
+          </w>
+          <w>qué</w>
+          <w>me</w>
+          <w>dezir</w>
+          <pc>;</pc>
+          <w>como</w>
+          <w lemma="yo" type="prn">
+            <choice>
+              <orig>yo</orig>
+              <reg>yo</reg>
+            </choice>
+          </w>
+          <w>lo</w>
+          <w>vi</w>
+          <w lemma="encubrir" type="verb">
+            <choice>
+              <orig>encobrir</orig>
+              <reg>encubrir</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>herse</w>
+          <w>como</w>
+          <w>la</w>
+          <w lemma="pez" type="n">
+            <choice>
+              <orig>pez</orig>
+              <reg>pez</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>dixe</w>
+          <pc>:</pc><c>"</c>
+          <w>Aquí</w>
+          <w>viene</w>
+          <w>el</w>
+          <w lemma="juez" type="n">
+            <choice>
+              <orig>juez</orig>
+              <reg>juez</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>no</w>
+          <w>ay</w>
+          <w>quien</w>
+          <w>le</w>
+          <w>pueda</w>
+          <w>huir</w>
+          <pc>.</pc><c>"</c>
+          <w>No</w>
+          <w lemma="quedar" type="verb">
+            <choice>
+              <orig>quedó</orig>
+              <reg>quedó</reg>
+            </choice>
+          </w>
+          <w>ni</w>
+          <w>presonita</w>
+          <w>que</w>
+          <w>no</w>
+          <w lemma="tener" type="verb">
+            <choice>
+              <orig>tuviese</orig>
+              <reg>tuviese</reg>
+            </choice>
+          </w>
+          <w>temor</w>
+          <pc>,</pc>
+          <w lemma="finar" type="verb">
+            <choice>
+              <orig>finados</orig>
+              <reg>finados</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>la</w>
+          <w lemma="color" type="n">
+            <choice>
+              <orig>color</orig>
+              <reg>color</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>el</w>
+          <w>alma</w>
+          <w>tamarrezquita</w>
+          <pc>.!</pc>
+          <w lemma="oh" type="ij">
+            <choice>
+              <orig>Oh</orig>
+              <reg>oh</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>Dios</w>
+          <pc>,</pc>
+          <w lemma="potencia" type="n">
+            <choice>
+              <orig>potencia</orig>
+              <reg>potencia</reg>
+            </choice>
+          </w>
+          <w lemma="infinito" type="adj">
+            <choice>
+              <orig>infinita</orig>
+              <reg>infinita</reg>
+            </choice>
+          </w>
+          <pc>!,</pc>
+          <w>que</w>
+          <w>tantetito</w>
+          <w>que</w>
+          <w>amaga</w>
+          <w>no</w>
+          <w>sabe</w>
+          <w>el</w>
+          <w>mundo</w>
+          <w>qué</w>
+          <w>haga</w>
+          <pc>,</pc>
+          <w>la</w>
+          <w>fuerça</w>
+          <w>toda</w>
+          <w>es</w>
+          <w lemma="marchito" type="adj">
+            <choice>
+              <orig>marchita</orig>
+              <reg>marchita</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="luego" type="adv">
+            <choice>
+              <orig>Luego</orig>
+              <reg>luego</reg>
+            </choice>
+          </w>
+          <w>dixe</w>
+          <pc>,!</pc>
+          <w lemma="pescar" type="verb">
+            <choice>
+              <orig>pesca</orig>
+              <reg>pesca</reg>
+            </choice>
+          </w>
+          <w>al</w>
+          <w>mal</w>
+          <pc>!:</pc><c>"</c>
+          <w>Quando</w>
+          <w lemma="de esto" type="pr prn">
+            <choice>
+              <orig>desto</orig>
+              <reg>de esto</reg>
+            </choice>
+          </w>
+          <w>nos</w>
+          <w>çurramos</w>
+          <pc>,?</pc>
+          <w>qué</w>
+          <w lemma="hacer" type="verb">
+            <choice>
+              <orig>hará</orig>
+              <reg>hará</reg>
+            </choice>
+          </w>
+          <w>quando</w>
+          <w lemma="ver" type="verb">
+            <choice>
+              <orig>veamos</orig>
+              <reg>veamos</reg>
+            </choice>
+          </w>
+          <w>el</w>
+          <w lemma="juicio" type="n">
+            <choice>
+              <orig>juizio</orig>
+              <reg>juicio</reg>
+            </choice>
+          </w>
+          <w lemma="universal" type="adj">
+            <choice>
+              <orig>universal</orig>
+              <reg>universal</reg>
+            </choice>
+          </w>
+          <pc>?</pc><c>"</c>
+          <w>Esta</w>
+          <w>me</w>
+          <w lemma="poner" type="verb">
+            <choice>
+              <orig>porná</orig>
+              <reg>pondrá</reg>
+            </choice>
+          </w>
+          <w>aquí</w>
+          <w lemma="sal" type="n">
+            <choice>
+              <orig>sal</orig>
+              <reg>sal</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>mondar</w>
+          <w>mis</w>
+          <w>escurrajas</w>
+          <pc>,</pc>
+          <w>que</w>
+          <w lemma="quizá" type="adv">
+            <choice>
+              <orig>quiçá</orig>
+              <reg>quizá</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w lemma="daca" type="ij">
+            <choice>
+              <orig>daca</orig>
+              <reg>daca</reg>
+            </choice>
+          </w>
+          <w>las</w>
+          <w lemma="paja" type="n">
+            <choice>
+              <orig>pajas</orig>
+              <reg>pajas</reg>
+            </choice>
+          </w>
+          <w lemma="venir" type="verb">
+            <choice>
+              <orig>vien</orig>
+              <reg>viene</reg>
+            </choice>
+          </w>
+          <w>la</w>
+          <w>muerte</w>
+          <w>natural</w>
+          <pc>.</pc>
+          <w>Dios</w>
+          <w>es</w>
+          <w>el</w>
+          <w>sol</w>
+          <w>de</w>
+          <w lemma="alegría" type="n">
+            <choice>
+              <orig>alegría</orig>
+              <reg>alegría</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>nuestra</w>
+          <w>luz</w>
+          <w>y</w>
+          <w lemma="claridad" type="n">
+            <choice>
+              <orig>claridad</orig>
+              <reg>claridad</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>a</w>
+          <w>quien</w>
+          <w>tiene</w>
+          <w lemma="caridad" type="n">
+            <choice>
+              <orig>caridad</orig>
+              <reg>caridad</reg>
+            </choice>
+          </w>
+          <w>ni</w>
+          <w>se</w>
+          <w lemma="esconder" type="verb">
+            <choice>
+              <orig>asconde</orig>
+              <reg>esconde</reg>
+            </choice>
+          </w>
+          <w>ni</w>
+          <w lemma="desviar" type="verb">
+            <choice>
+              <orig>desvía</orig>
+              <reg>desvía</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Yo</w>
+          <w>cro</w>
+          <w>que</w>
+          <w>por</w>
+          <w>esta</w>
+          <w lemma="vía" type="n">
+            <choice>
+              <orig>vía</orig>
+              <reg>vía</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w>Valmanbre</w>
+          <pc>,</pc>
+          <w lemma="jurar" type="verb">
+            <choice>
+              <orig>juro</orig>
+              <reg>juro</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>San</w>
+          <pc>,</pc>
+          <w lemma="parecer" type="verb">
+            <choice>
+              <orig>paresció</orig>
+              <reg>pareció</reg>
+            </choice>
+          </w>
+          <w>Dios</w>
+          <w>Abraham</w>
+          <w>en</w>
+          <w>medio</w>
+          <w>el</w>
+          <w lemma="calor" type="n">
+            <choice>
+              <orig>calor</orig>
+              <reg>calor</reg>
+            </choice>
+          </w>
+          <w>del</w>
+          <w lemma="día" type="n">
+            <choice>
+              <orig>día</orig>
+              <reg>día</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>No</w>
+          <w>quiero</w>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w lemma="inoportuno" type="adj">
+            <choice>
+              <orig>inportuno</orig>
+              <reg>inoportuno</reg>
+            </choice>
+          </w>
+          <w>mas</w>
+          <w lemma="notar" type="verb">
+            <choice>
+              <orig>notá</orig>
+              <reg>notad</reg>
+            </choice>
+          </w>
+          <w>lo</w>
+          <w>que</w>
+          <w>os</w>
+          <w lemma="decir" type="verb">
+            <choice>
+              <orig>diré</orig>
+              <reg>diré</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w>que</w>
+          <w>Abraham</w>
+          <pc>,</pc>
+          <w lemma="lleno" type="adj">
+            <choice>
+              <orig>lleno</orig>
+              <reg>lleno</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>fe</w>
+          <pc>,</pc>
+          <w>vei</w>
+          <w>tres</w>
+          <w>y</w>
+          <w>habra</w>
+          <w>con</w>
+          <w>uno</w>
+          <pc>,</pc>
+          <w>porque</w>
+          <w>no</w>
+          <w lemma="dudar" type="verb">
+            <choice>
+              <orig>dude</orig>
+              <reg>dude</reg>
+            </choice>
+          </w>
+          <w lemma="ninguno" type="prn">
+            <choice>
+              <orig>nenguno</orig>
+              <reg>ninguno</reg>
+            </choice>
+          </w>
+          <w>el</w>
+          <w lemma="artículo" type="n">
+            <choice>
+              <orig>artículo</orig>
+              <reg>artículo</reg>
+            </choice>
+          </w>
+          <w lemma="divino" type="adj">
+            <choice>
+              <orig>divino</orig>
+              <reg>divino</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w>nuestro</w>
+          <w>Dios</w>
+          <w>uno</w>
+          <w>y</w>
+          <w>trino</w>
+          <pc>.?</pc>
+          <w>Veisllos</w>
+          <pc>?</pc>
+          <w lemma="venir" type="verb">
+            <choice>
+              <orig>Vienen</orig>
+              <reg>vienen</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w lemma="consuno" type="n">
+            <choice>
+              <orig>consuno</orig>
+              <reg>consuno</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Aquí</w>
+          <w lemma="salir" type="verb">
+            <choice>
+              <orig>salen</orig>
+              <reg>salen</reg>
+            </choice>
+          </w>
+          <w>los</w>
+          <w>tres</w>
+          <w lemma="ángel" type="n">
+            <choice>
+              <orig>ÁNGELES</orig>
+              <reg>ángeles</reg>
+            </choice>
+          </w>
+          <w lemma="cantar" type="verb">
+            <choice>
+              <orig>cantando</orig>
+              <reg>cantando</reg>
+            </choice>
+          </w>
+          <w>el</w>
+          <w lemma="villancico" type="n">
+            <choice>
+              <orig>villancico</orig>
+              <reg>villancico</reg>
+            </choice>
+          </w>
+          <w lemma="siguiente" type="adj">
+            <choice>
+              <orig>siguiente</orig>
+              <reg>siguiente</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>luego</w>
+          <w>se</w>
+          <w lemma="levantar" type="verb">
+            <choice>
+              <orig>levanta</orig>
+              <reg>levanta</reg>
+            </choice>
+          </w>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>ellos</w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>dize</w>
+          <w lemma="después" type="adv">
+            <choice>
+              <orig>después</orig>
+              <reg>después</reg>
+            </choice>
+          </w>
+          <w>del</w>
+          <w lemma="villancico" type="n">
+            <choice>
+              <orig>villancico</orig>
+              <reg>villancico</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="hincar" type="verb">
+            <choice>
+              <orig>hincado</orig>
+              <reg>hincado</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w lemma="rodilla" type="n">
+            <choice>
+              <orig>rodillas</orig>
+              <reg>rodillas</reg>
+            </choice>
+          </w>
+          <w lemma="ante" type="pr">
+            <choice>
+              <orig>ante</orig>
+              <reg>ante</reg>
+            </choice>
+          </w>
+          <w>los</w>
+          <w>tres</w>
+          <w lemma="ángel" type="n">
+            <choice>
+              <orig>ÁNGELES</orig>
+              <reg>ángeles</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w lemma="ángel" type="n">
+            <choice>
+              <orig>ÁNGELES</orig>
+              <reg>ángeles</reg>
+            </choice>
+          </w>
+          <w lemma="villancico" type="n">
+            <choice>
+              <orig>Villancico</orig>
+              <reg>villancido</reg>
+            </choice>
+          </w>
+          <w>Yo</w>
+          <w>soy</w>
+          <w>el</w>
+          <w lemma="rey" type="n">
+            <choice>
+              <orig>Rey</orig>
+              <reg>rey</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>los</w>
+          <w lemma="rey" type="n">
+            <choice>
+              <orig>reyes</orig>
+              <reg>reyes</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>mi</w>
+          <w>mano</w>
+          <w>el</w>
+          <w>mundo</w>
+          <w lemma="criar" type="verb">
+            <choice>
+              <orig>crió</orig>
+              <reg>crió</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>no</w>
+          <w>ay</w>
+          <w>otro</w>
+          <w>Dios</w>
+          <w>sino</w>
+          <w lemma="yo" type="prn">
+            <choice>
+              <orig>yo</orig>
+              <reg>yo</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>A</w>
+          <w>ti</w>
+          <pc>,</pc>
+          <w>Dios</w>
+          <w lemma="omnipotente" type="adj">
+            <choice>
+              <orig>omnipotente</orig>
+              <reg>omnipotente</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>me</w>
+          <w lemma="humillar" type="verb">
+            <choice>
+              <orig>humillo</orig>
+              <reg>humillo</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="adorar" type="verb">
+            <choice>
+              <orig>adoro</orig>
+              <reg>adoro</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>ti</w>
+          <pc>;</pc>
+          <w lemma="yo" type="prn">
+            <choice>
+              <orig>yo</orig>
+              <reg>yo</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>tu</w>
+          <w lemma="siervo" type="n">
+            <choice>
+              <orig>siervo</orig>
+              <reg>siervo</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="venir" type="verb">
+            <choice>
+              <orig>vengo</orig>
+              <reg>vengo</reg>
+            </choice>
+          </w>
+          <w>aquí</w>
+          <w>a</w>
+          <w lemma="suplicarte" type="verb prn">
+            <choice>
+              <orig>suplicarte</orig>
+              <reg>suplicarte</reg>
+            </choice>
+          </w>
+          <w lemma="humilmente" type="adv">
+            <choice>
+              <orig>humilmente</orig>
+              <reg>humilmente</reg>
+            </choice>
+          </w>
+          <w>que</w>
+          <w>tu</w>
+          <w lemma="majestad" type="n">
+            <choice>
+              <orig>Magestad</orig>
+              <reg>majestad</reg>
+            </choice>
+          </w>
+          <w>se</w>
+          <w>asiente</w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>para</w>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w>recreados</w>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>serán</orig>
+              <reg>serán</reg>
+            </choice>
+          </w>
+          <w lemma="vuestro" type="det">
+            <choice>
+              <orig>vuestros</orig>
+              <reg>vuestros</reg>
+            </choice>
+          </w>
+          <w>pies</w>
+          <w lemma="lavar" type="verb">
+            <choice>
+              <orig>lavados</orig>
+              <reg>lavados</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Traigan</w>
+          <w>aquí</w>
+          <w>agua</w>
+          <w lemma="caliente" type="adj">
+            <choice>
+              <orig>caliente</orig>
+              <reg>caliente</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Asiéntanse</w>
+          <w>todos</w>
+          <w>tres</w>
+          <w>en</w>
+          <w lemma="uno" type="det">
+            <choice>
+              <orig>un</orig>
+              <reg>un</reg>
+            </choice>
+          </w>
+          <w lemma="banco" type="n">
+            <choice>
+              <orig>banco</orig>
+              <reg>banco</reg>
+            </choice>
+          </w>
+          <w lemma="debajo" type="adv">
+            <choice>
+              <orig>debaxo</orig>
+              <reg>debajo</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>la</w>
+          <w lemma="encina" type="n">
+            <choice>
+              <orig>enzina</orig>
+              <reg>encina</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w>viene</w>
+          <w>un</w>
+          <w lemma="mozo" type="n">
+            <choice>
+              <orig>MOÇO</orig>
+              <reg>mozo</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w lemma="uno" type="det">
+            <choice>
+              <orig>un</orig>
+              <reg>un</reg>
+            </choice>
+          </w>
+          <w>baçío</w>
+          <w>de</w>
+          <w>agua</w>
+          <w>y</w>
+          <w>un</w>
+          <w lemma="paño" type="n">
+            <choice>
+              <orig>paño</orig>
+              <reg>paño</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Mientras</w>
+          <w>los</w>
+          <w lemma="lavar" type="verb">
+            <choice>
+              <orig>lava</orig>
+              <reg>lava</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>dize</w>
+          <w>el</w>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w lemma="oh" type="ij">
+            <choice>
+              <orig>Oh</orig>
+              <reg>oh</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="virgen" type="n">
+            <choice>
+              <orig>Virgen</orig>
+              <reg>virgen</reg>
+            </choice>
+          </w>
+          <w>nuestra</w>
+          <w lemma="señor" type="n">
+            <choice>
+              <orig>Señora</orig>
+              <reg>señora</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w>Oteá</w>
+          <w>el</w>
+          <w lemma="misterio" type="n">
+            <choice>
+              <orig>misterio</orig>
+              <reg>misterio</reg>
+            </choice>
+          </w>
+          <w>qu'es</w>
+          <pc>,</pc>
+          <w>que</w>
+          <w>son</w>
+          <w>las</w>
+          <w lemma="persona" type="n">
+            <choice>
+              <orig>personas</orig>
+              <reg>persona</reg>
+            </choice>
+          </w>
+          <w>tres</w>
+          <w>y</w>
+          <w>Abraham</w>
+          <w>un</w>
+          <w>solo</w>
+          <w lemma="adorar" type="verb">
+            <choice>
+              <orig>adora</orig>
+              <reg>adora</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w>Ya</w>
+          <w lemma="poder" type="verb">
+            <choice>
+              <orig>podéis</orig>
+              <reg>podéis</reg>
+            </choice>
+          </w>
+          <w lemma="sentir" type="verb">
+            <choice>
+              <orig>sentir</orig>
+              <reg>sentir</reg>
+            </choice>
+          </w>
+          <w>aora</w>
+          <w>que</w>
+          <w>desde</w>
+          <w lemma="entonces" type="adv">
+            <choice>
+              <orig>entonces</orig>
+              <reg>entonces</reg>
+            </choice>
+          </w>
+          <w lemma="acá" type="adv">
+            <choice>
+              <orig>aca</orig>
+              <reg>acá</reg>
+            </choice>
+          </w>
+          <w>se</w>
+          <w lemma="adorar" type="verb">
+            <choice>
+              <orig>adora</orig>
+              <reg>adora</reg>
+            </choice>
+          </w>
+          <w>la</w>
+          <w>Trenidá</w>
+          <w>con</w>
+          <w>que</w>
+          <w>nuestra</w>
+          <w>fe</w>
+          <w>se</w>
+          <w lemma="dorar" type="verb">
+            <choice>
+              <orig>dora</orig>
+              <reg>dora</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>Yo</w>
+          <w lemma="poner" type="verb">
+            <choice>
+              <orig>porné</orig>
+              <reg>pondré</reg>
+            </choice>
+          </w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w lemma="ante" type="pr">
+            <choice>
+              <orig>ante</orig>
+              <reg>ante</reg>
+            </choice>
+          </w>
+          <w lemma="vos" type="prn">
+            <choice>
+              <orig>Vos</orig>
+              <reg>vos</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>comeréis</w>
+          <w>un</w>
+          <w lemma="bocado" type="n">
+            <choice>
+              <orig>bocado</orig>
+              <reg>bocado</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>que</w>
+          <w>por</w>
+          <w lemma="eso" type="prn">
+            <choice>
+              <orig>eso</orig>
+              <reg>eso</reg>
+            </choice>
+          </w>
+          <w lemma="haber" type="verb">
+            <choice>
+              <orig>eis</orig>
+              <reg>habéis</reg>
+            </choice>
+          </w>
+          <w lemma="visitar" type="verb">
+            <choice>
+              <orig>visitado</orig>
+              <reg>visitado</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>vuestro</w>
+          <w lemma="siervo" type="n">
+            <choice>
+              <orig>siervo</orig>
+              <reg>siervo</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>mi</w>
+          <w>Dios</w>
+          <pc>.</pc>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <w lemma="ahora" type="adv">
+            <choice>
+              <orig>Ora</orig>
+              <reg>ahora</reg>
+            </choice>
+          </w>
+          <w>noten</w>
+          <w>dos</w>
+          <w>a</w>
+          <w>dos</w>
+          <w>todos</w>
+          <w>quantos</w>
+          <w>aquí</w>
+          <w lemma="estar" type="verb">
+            <choice>
+              <orig>están</orig>
+              <reg>están</reg>
+            </choice>
+          </w>
+          <w>qué</w>
+          <w>tal</w>
+          <w>a</w>
+          <w>de</w>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w>el</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w>que</w>
+          <w>le</w>
+          <w lemma="dar" type="verb">
+            <choice>
+              <orig>diere</orig>
+              <reg>diere</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="jurar" type="verb">
+            <choice>
+              <orig>juri</orig>
+              <reg>jure</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w>nos</w>
+          <pc>.</pc>
+          <w>Buélvese</w>
+          <w>a</w>
+          <w>la</w>
+          <w lemma="mujer" type="n">
+            <choice>
+              <orig>MUGER</orig>
+              <reg>mujer</reg>
+            </choice>
+          </w>
+          <w>que</w>
+          <w>está</w>
+          <w>en</w>
+          <w>la</w>
+          <w lemma="tienda" type="n">
+            <choice>
+              <orig>tienda</orig>
+              <reg>tienda</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>dízele</w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>dicho</w>
+          <pc>,</pc>
+          <w>él</w>
+          <w>se</w>
+          <w lemma="encubrir" type="verb">
+            <choice>
+              <orig>encubre</orig>
+              <reg>encubre</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>queda</w>
+          <w>el</w>
+          <w lemma="mozo" type="n">
+            <choice>
+              <orig>MOÇO</orig>
+              <reg>mozo</reg>
+            </choice>
+          </w>
+          <w>lavando</w>
+          <pc>,</pc>
+          <w>y</w>
+          <w>desque</w>
+          <w lemma="lavar" type="verb">
+            <choice>
+              <orig>lava</orig>
+              <reg>lava</reg>
+            </choice>
+          </w>
+          <w lemma="poner" type="verb">
+            <choice>
+              <orig>pone</orig>
+              <reg>pone</reg>
+            </choice>
+          </w>
+          <w>la</w>
+          <w lemma="mesa" type="n">
+            <choice>
+              <orig>mesa</orig>
+              <reg>mesa</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="mientras" type="cnj">
+            <choice>
+              <orig>mientras</orig>
+              <reg>mientras</reg>
+            </choice>
+          </w>
+          <w>viene</w>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w>su</w>
+          <w>salero</w>
+          <w>y</w>
+          <w lemma="cuchillo" type="n">
+            <choice>
+              <orig>cuchillo</orig>
+              <reg>cuchillo</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w lemma="Sarra" type="np">
+            <choice>
+              <orig>Sarra</orig>
+              <reg>Sarra</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>tú</w>
+          <w lemma="mezclar" type="verb">
+            <choice>
+              <orig>mezcla</orig>
+              <reg>mezcla</reg>
+            </choice>
+          </w>
+          <w>por</w>
+          <w lemma="tasar" type="verb">
+            <choice>
+              <orig>tasa</orig>
+              <reg>tasa</reg>
+            </choice>
+          </w>
+          <w>tres</w>
+          <w lemma="medida" type="n">
+            <choice>
+              <orig>medidas</orig>
+              <reg>medidas</reg>
+            </choice>
+          </w>
+          <w>muy</w>
+          <w lemma="aína" type="adv">
+            <choice>
+              <orig>aína</orig>
+              <reg>aína</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>la</w>
+          <w>muy</w>
+          <w lemma="puro" type="adj">
+            <choice>
+              <orig>pura</orig>
+              <reg>pura</reg>
+            </choice>
+          </w>
+          <w lemma="harina" type="n">
+            <choice>
+              <orig>harina</orig>
+              <reg>harina</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>della</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>panes</orig>
+              <reg>panes</reg>
+            </choice>
+          </w>
+          <w>amasa</w>
+          <pc>;</pc>
+          <w>luego</w>
+          <w>los</w>
+          <w lemma="cocer" type="verb">
+            <choice>
+              <orig>cueze</orig>
+              <reg>cuece</reg>
+            </choice>
+          </w>
+          <w>o</w>
+          <w>los</w>
+          <w>asa</w>
+          <w>so</w>
+          <w>la</w>
+          <w lemma="ceniza" type="n">
+            <choice>
+              <orig>çeniza</orig>
+              <reg>ceniza</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="brasero" type="n">
+            <choice>
+              <orig>brasero</orig>
+              <reg>brasero</reg>
+            </choice>
+          </w>
+          <w lemma="mientras" type="cnj">
+            <choice>
+              <orig>mientras</orig>
+              <reg>mientras</reg>
+            </choice>
+          </w>
+          <w>voy</w>
+          <w>por</w>
+          <w>un</w>
+          <w lemma="ternero" type="n">
+            <choice>
+              <orig>ternero</orig>
+              <reg>ternero</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <w lemma="ahora" type="adv">
+            <choice>
+              <orig>Ora</orig>
+              <reg>ahora</reg>
+            </choice>
+          </w>
+          <w>escuchá</w>
+          <w>lo</w>
+          <w>que</w>
+          <w lemma="pasar" type="verb">
+            <choice>
+              <orig>pasa</orig>
+              <reg>pasa</reg>
+            </choice>
+          </w>
+          <pc>:</pc>
+          <w>este</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>en</w>
+          <w>la</w>
+          <w>verdad</w>
+          <pc>,</pc>
+          <w>es</w>
+          <w lemma="Cristo" type="np">
+            <choice>
+              <orig>Christo</orig>
+              <reg>Cristo</reg>
+            </choice>
+          </w>
+          <w>quando</w>
+          <w>encarnó</w>
+          <pc>,</pc>
+          <w>que</w>
+          <w>tres</w>
+          <w>harinas</w>
+          <w lemma="juntar" type="verb">
+            <choice>
+              <orig>juntó</orig>
+              <reg>juntó</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w>devina</w>
+          <w lemma="majestad" type="n">
+            <choice>
+              <orig>magestad</orig>
+              <reg>majestad</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w>hecho</w>
+          <w>por</w>
+          <w>su</w>
+          <w lemma="bondad" type="n">
+            <choice>
+              <orig>bondad</orig>
+              <reg>bondad</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w>que</w>
+          <w>las</w>
+          <w lemma="ánima" type="n">
+            <choice>
+              <orig>ánimas</orig>
+              <reg>ánimas</reg>
+            </choice>
+          </w>
+          <w lemma="sanar" type="verb">
+            <choice>
+              <orig>sana</orig>
+              <reg>sana</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w>tres</w>
+          <w>harinas</w>
+          <pc>:</pc>
+          <w lemma="carne" type="n">
+            <choice>
+              <orig>carne</orig>
+              <reg>carne</reg>
+            </choice>
+          </w>
+          <w lemma="humano" type="adj">
+            <choice>
+              <orig>humana</orig>
+              <reg>humana</reg>
+            </choice>
+          </w>
+          <w lemma="ánima" type="n">
+            <choice>
+              <orig>ánima</orig>
+              <reg>ánima</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="divinidad" type="n">
+            <choice>
+              <orig>divinidad</orig>
+              <reg>divinidad</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w lemma="vivir" type="verb">
+            <choice>
+              <orig>bivo</orig>
+              <reg>vivo</reg>
+            </choice>
+          </w>
+          <w>que</w>
+          <w>fue</w>
+          <w lemma="enviar" type="verb">
+            <choice>
+              <orig>embiado</orig>
+              <reg>enviado</reg>
+            </choice>
+          </w>
+          <w>del</w>
+          <w lemma="seno" type="n">
+            <choice>
+              <orig>seno</orig>
+              <reg>seno</reg>
+            </choice>
+          </w>
+          <w>del</w>
+          <w lemma="alto" type="adj">
+            <choice>
+              <orig>alto</orig>
+              <reg>alto</reg>
+            </choice>
+          </w>
+          <w lemma="padre" type="n">
+            <choice>
+              <orig>Padre</orig>
+              <reg>padre</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>dentro</w>
+          <w>en</w>
+          <w>la</w>
+          <w lemma="virgen" type="n">
+            <choice>
+              <orig>Virgen</orig>
+              <reg>virgen</reg>
+            </choice>
+          </w>
+          <w>madre</w>
+          <w>divinalmente</w>
+          <w>amasado</w>
+          <pc>;</pc>
+          <w>so</w>
+          <w>la</w>
+          <w lemma="ceniza" type="n">
+            <choice>
+              <orig>ceniza</orig>
+              <reg>ceniza</reg>
+            </choice>
+          </w>
+          <w>hu</w>
+          <w>asado</w>
+          <w>en</w>
+          <w>la</w>
+          <w lemma="cruz" type="n">
+            <choice>
+              <orig>cruz</orig>
+              <reg>cruz</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w>gran</w>
+          <w lemma="tormento" type="n">
+            <choice>
+              <orig>tormento</orig>
+              <reg>tormento</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>cómese</w>
+          <w>en</w>
+          <w>el</w>
+          <w lemma="sacramento" type="n">
+            <choice>
+              <orig>Sacramento</orig>
+              <reg>sacramento</reg>
+            </choice>
+          </w>
+          <pc>,!</pc>
+          <w lemma="bendito" type="adj">
+            <choice>
+              <orig>bendito</orig>
+              <reg>bendito</reg>
+            </choice>
+          </w>
+          <w>quien</w>
+          <w>tal</w>
+          <w>ha</w>
+          <w>dado</w>
+          <pc>!</pc>
+          <w>Vien</w>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>con</w>
+          <w>un</w>
+          <w lemma="plato" type="n">
+            <choice>
+              <orig>plato</orig>
+              <reg>plato</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w lemma="carne" type="n">
+            <choice>
+              <orig>carne</orig>
+              <reg>carne</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w>con</w>
+          <w lemma="leche" type="n">
+            <choice>
+              <orig>leche</orig>
+              <reg>leche</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w>un</w>
+          <w>tarro</w>
+          <w>y</w>
+          <w lemma="manteca" type="n">
+            <choice>
+              <orig>manteca</orig>
+              <reg>manteca</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w>sus</w>
+          <w>gamonitas</w>
+          <w>y</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>y</w>
+          <w lemma="ponerlo" type="verb prn">
+            <choice>
+              <orig>pónelo</orig>
+              <reg>ponelo</reg>
+            </choice>
+          </w>
+          <w>todo</w>
+          <w>en</w>
+          <w>la</w>
+          <w lemma="mesa" type="n">
+            <choice>
+              <orig>mesa</orig>
+              <reg>mesa</reg>
+            </choice>
+          </w>
+          <w>diziendo</w>
+          <pc>:</pc>
+          <w lemma="Abraham" type="np">
+            <choice>
+              <orig>ABRAHAM</orig>
+              <reg>Abraham</reg>
+            </choice>
+          </w>
+          <w>Pues</w>
+          <w>son</w>
+          <w lemma="vuestro" type="det">
+            <choice>
+              <orig>vuestros</orig>
+              <reg>vuestros</reg>
+            </choice>
+          </w>
+          <w>pies</w>
+          <w lemma="lavar" type="verb">
+            <choice>
+              <orig>lavados</orig>
+              <reg>lavados</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="ver" type="verb">
+            <choice>
+              <orig>veis</orig>
+              <reg>veis</reg>
+            </choice>
+          </w>
+          <w lemma="leche" type="n">
+            <choice>
+              <orig>leche</orig>
+              <reg>leche</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="manteca" type="n">
+            <choice>
+              <orig>manteca</orig>
+              <reg>manteca</reg>
+            </choice>
+          </w>
+          <w>buena</w>
+          <w>y</w>
+          <w lemma="ternero" type="n">
+            <choice>
+              <orig>ternero</orig>
+              <reg>ternero</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w>sin</w>
+          <w>pena</w>
+          <w>comeréis</w>
+          <w lemma="sendos" type="det">
+            <choice>
+              <orig>sendos</orig>
+              <reg>sendos</reg>
+            </choice>
+          </w>
+          <w lemma="bocado" type="n">
+            <choice>
+              <orig>bocados</orig>
+              <reg>bocados</reg>
+            </choice>
+          </w>
+          <pc>.</pc>
+          <w lemma="pastor" type="n">
+            <choice>
+              <orig>PASTOR</orig>
+              <reg>pastor</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w lemma="oh" type="ij">
+            <choice>
+              <orig>Oh</orig>
+              <reg>oh</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w lemma="misterio" type="n">
+            <choice>
+              <orig>misterios</orig>
+              <reg>misterios</reg>
+            </choice>
+          </w>
+          <w lemma="estimado" type="adj">
+            <choice>
+              <orig>estimados</orig>
+              <reg>estimados</reg>
+            </choice>
+          </w>
+          <pc>!</pc>
+          <w>Aquí</w>
+          <w lemma="el" type="det">
+            <choice>
+              <orig>llos</orig>
+              <reg>los</reg>
+            </choice>
+          </w>
+          <w lemma="hombre" type="n">
+            <choice>
+              <orig>hombres</orig>
+              <reg>hombres</reg>
+            </choice>
+          </w>
+          <w>verán</w>
+          <pc>,</pc>
+          <w>para</w>
+          <w lemma="comer" type="verb">
+            <choice>
+              <orig>comer</orig>
+              <reg>comer</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>aquel</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>Pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w>cómo</w>
+          <w lemma="haber" type="verb">
+            <choice>
+              <orig>an</orig>
+              <reg>han</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w>aprovados</w>
+          <pc>:</pc>
+          <w>lavarse</w>
+          <w>los</w>
+          <w>pies</w>
+          <w>primero</w>
+          <w>de</w>
+          <w lemma="cualquier" type="det">
+            <choice>
+              <orig>qualquier</orig>
+              <reg>cualquier</reg>
+            </choice>
+          </w>
+          <w>mala</w>
+          <w lemma="intención" type="n">
+            <choice>
+              <orig>intención</orig>
+              <reg>intención</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="gustar" type="verb">
+            <choice>
+              <orig>gustar</orig>
+              <reg>gustar</reg>
+            </choice>
+          </w>
+          <w>de</w>
+          <w>la</w>
+          <w lemma="pasión" type="n">
+            <choice>
+              <orig>pasión</orig>
+              <reg>pasión</reg>
+            </choice>
+          </w>
+          <w>qu'es</w>
+          <w>la</w>
+          <w lemma="carne" type="n">
+            <choice>
+              <orig>carne</orig>
+              <reg>carne</reg>
+            </choice>
+          </w>
+          <w>del</w>
+          <w lemma="ternero" type="n">
+            <choice>
+              <orig>ternero</orig>
+              <reg>ternero</reg>
+            </choice>
+          </w>
+          <pc>;</pc>
+          <w lemma="ser" type="verb">
+            <choice>
+              <orig>ser</orig>
+              <reg>ser</reg>
+            </choice>
+          </w>
+          <w>puro</w>
+          <w>y</w>
+          <w>muy</w>
+          <w lemma="limosnero" type="adj">
+            <choice>
+              <orig>limosnero</orig>
+              <reg>limosnero</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>qu'esta</w>
+          <w>es</w>
+          <w>la</w>
+          <w lemma="manteca" type="n">
+            <choice>
+              <orig>manteca</orig>
+              <reg>manteca</reg>
+            </choice>
+          </w>
+          <w>y</w>
+          <w lemma="leche" type="n">
+            <choice>
+              <orig>leche</orig>
+              <reg>leche</reg>
+            </choice>
+          </w>
+          <pc>,</pc>
+          <w>porque</w>
+          <w>el</w>
+          <w lemma="convite" type="n">
+            <choice>
+              <orig>combite</orig>
+              <reg>convite</reg>
+            </choice>
+          </w>
+          <w lemma="aprovechar" type="verb">
+            <choice>
+              <orig>aproveche</orig>
+              <reg>aproveche</reg>
+            </choice>
+          </w>
+          <w>al</w>
+          <w>christiano</w>
+          <w>verdadero</w>
+          <pc>.</pc>
+          <w lemma="canción" type="n">
+            <choice>
+              <orig>Canción</orig>
+              <reg>canción</reg>
+            </choice>
+          </w>
+          <w>El</w>
+          <w lemma="mismo" type="adj">
+            <choice>
+              <orig>mesmo</orig>
+              <reg>mismo</reg>
+            </choice>
+          </w>
+          <w>que</w>
+          <w>dio</w>
+          <w>la</w>
+          <w>vida</w>
+          <w>y</w>
+          <w>nos</w>
+          <w>lavó</w>
+          <w>con</w>
+          <w lemma="bautismo" type="n">
+            <choice>
+              <orig>bautismo</orig>
+              <reg>bautismo</reg>
+            </choice>
+          </w>
+          <w>a</w>
+          <w lemma="pan" type="n">
+            <choice>
+              <orig>pan</orig>
+              <reg>pan</reg>
+            </choice>
+          </w>
+          <w lemma="divino" type="adj">
+            <choice>
+              <orig>divino</orig>
+              <reg>divino</reg>
+            </choice>
+          </w>
+          <w lemma="convidar" type="verb">
+            <choice>
+              <orig>combida</orig>
+              <reg>convida</reg>
+            </choice>
+          </w>
+          <w>en</w>
+          <w>que</w>
+          <w>se</w>
+          <w>nos</w>
+          <w>da</w>
+          <w>a</w>
+          <w lemma="sí" type="adv">
+            <choice>
+              <orig>sí</orig>
+              <reg>sí</reg>
+            </choice>
+          </w>
+          <w>mismo</w>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
